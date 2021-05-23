@@ -9,9 +9,16 @@ use Illuminate\Support\Facades\Validator;
 class IngredientController extends Controller
 {
     /**
-     * Display a listing of the resource.
-     *
-     * @return \Illuminate\Http\Response
+     * @OA\Get(
+     *      path="/ingredients",
+     *      operationId="getIngredientsList",
+     *      summary="Get list of ingredients",
+     *      description="Returns list of ingredients",
+     *      @OA\Response(
+     *          response=200,
+     *          description="Successful operation",
+     *       ),
+     *     )
      */
     public function index()
     {
@@ -21,10 +28,16 @@ class IngredientController extends Controller
     }
 
     /**
-     * Store a newly created resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @return \Illuminate\Http\Response
+     * @OA\Post(
+     *      path="/ingredients",
+     *      operationId="postIngredient",
+     *      summary="Store ingredient",
+     *      description="Store ingredient",
+     *      @OA\Response(
+     *          response=200,
+     *          description="Successful operation",
+     *       ),
+     *     )
      */
     public function store(Request $request)
     {

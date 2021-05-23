@@ -10,9 +10,26 @@ use Illuminate\Support\Facades\Validator;
 class MealController extends Controller
 {
     /**
-     * Display a listing of the resource.
-     *
-     * @return \Illuminate\Http\Response
+     * @OA\Get(
+     *      path="/meals",
+     *      operationId="getMealsList",
+     *      summary="Get list of meals",
+     *      description="Returns list of meals",
+     *      @OA\Response(
+     *          response=200,
+     *          description="Successful operation",
+     *       ),
+     *     )
+     * @OA\Get(
+     *      path="/meals?ingredient='string'",
+     *      operationId="get3MealsList",
+     *      summary="Get 3 meals",
+     *      description="Returns list 3 of meals",
+     *      @OA\Response(
+     *          response=200,
+     *          description="Successful operation",
+     *       ),
+     *     )
      */
     public function index(Request $request)
     {
@@ -39,10 +56,16 @@ class MealController extends Controller
     }
 
     /**
-     * Store a newly created resource in storage.
-     *
-     * @param \Illuminate\Http\Request $request
-     * @return \Illuminate\Http\Response
+     * @OA\Post(
+     *      path="/meals",
+     *      operationId="postMeal",
+     *      summary="Store meal",
+     *      description="Store meal",
+     *      @OA\Response(
+     *          response=200,
+     *          description="Successful operation",
+     *       ),
+     *     )
      */
     public function store(Request $request)
     {
@@ -103,10 +126,22 @@ class MealController extends Controller
     }
 
     /**
-     * Display the specified resource.
-     *
-     * @param \App\Models\Meal $meal
-     * @return \Illuminate\Http\Response
+     * @OA\Get(
+     *      path="/meals/{id}",
+     *      operationId="getMeal",
+     *      summary="Get meal",
+     *      description="Returns meal",
+     *     @OA\Parameter(
+     *          name="id",
+     *          description="Meal id",
+     *          required=true,
+     *          in="path",
+     *     ),
+     *      @OA\Response(
+     *          response=200,
+     *          description="Successful operation",
+     *       ),
+     *     )
      */
     public function show($id)
     {
