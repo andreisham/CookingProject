@@ -19,7 +19,7 @@ class Ingredient extends Model
         'updated_at'
     ];
 
-//    public function meals() {
-//        return $this->hasMany(Meal::class);
-//    }
+    public function meals() {
+        return $this->hasMany(Meal::class);
+    }
 }
