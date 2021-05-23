@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Ingredient;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Validator;
 
 class IngredientController extends Controller
 {
@@ -27,7 +28,19 @@ class IngredientController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $validator = Validator::make($request->only('title', 'description'), [
+            'title' => 'required|string|min:2|max:25',
+            'description' => 'required|string|min:100|max:1500',
+        ]);
+
+        if ($validator->fails()) {
+            return response(['errors' => $validator->errors()->all()], 422);
+        }
+
+        $ingredient = new Ingredient();
+        $ingredient->fill($request->only('title', 'description'))->save();
+
+        return response($ingredient, 200);
     }
 
     /**
