@@ -3,6 +3,7 @@
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use \App\Http\Controllers\IngredientController;
+use \App\Http\Controllers\MealController;
 
 /*
 |--------------------------------------------------------------------------
@@ -22,4 +23,5 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 Route::get('/ingredients', [IngredientController::class, 'index']);
 Route::post('/ingredients', [IngredientController::class, 'store']);
 
-Route::post('meals', [\App\Http\Controllers\MealController::class, 'store']);
+Route::get('/meals', [MealController::class, 'index']);
+Route::post('/meals', [MealController::class, 'store']);

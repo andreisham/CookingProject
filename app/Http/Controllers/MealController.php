@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Ingredient;
 use App\Models\Meal;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
@@ -13,9 +14,30 @@ class MealController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index(Request $request)
     {
-        //
+        $validator = Validator::make($request->only('ingredient'), [
+            'ingredient' => 'string'
+        ]);
+
+        if ($validator->fails()) {
+            return response(['errors' => $validator->errors()->all()], 422);
+        }
+
+        $ingredient = $request->only('ingredient');
+        $ingredient1 = Ingredient::where('title', $ingredient)->get();
+
+        if ($ingredient1) {
+            $meals = Meal::where('ingredient1', $ingredient)
+                ->take(3)
+                ->get();
+
+            return response($meals, 200);
+        }
+
+        $meals = Meal::all();
+
+        return response($meals, 200);
     }
 
     /**
