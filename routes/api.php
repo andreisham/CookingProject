@@ -24,4 +24,5 @@ Route::get('/ingredients', [IngredientController::class, 'index']);
 Route::post('/ingredients', [IngredientController::class, 'store']);
 
 Route::get('/meals', [MealController::class, 'index']);
+Route::get('/meals/{id}', [MealController::class, 'show']);
 Route::post('/meals', [MealController::class, 'store']);

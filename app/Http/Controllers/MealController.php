@@ -25,9 +25,7 @@ class MealController extends Controller
         }
 
         $ingredient = $request->only('ingredient');
-        $ingredient1 = Ingredient::where('title', $ingredient)->get();
-
-        if ($ingredient1) {
+        if (count($ingredient) > 0) {
             $meals = Meal::where('ingredient1', $ingredient)
                 ->take(3)
                 ->get();
@@ -43,7 +41,7 @@ class MealController extends Controller
     /**
      * Store a newly created resource in storage.
      *
-     * @param  \Illuminate\Http\Request  $request
+     * @param \Illuminate\Http\Request $request
      * @return \Illuminate\Http\Response
      */
     public function store(Request $request)
@@ -107,19 +105,27 @@ class MealController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\Meal  $meal
+     * @param \App\Models\Meal $meal
      * @return \Illuminate\Http\Response
      */
-    public function show(Meal $meal)
+    public function show($id)
     {
-        //
+        $validator = Validator::make(['id' => $id], ['id' => 'required|integer']);
+
+        if ($validator->fails()) {
+            return response(['errors' => $validator->errors()->all()], 422);
+        }
+
+        $meal = Meal::find($id)->first();
+
+        return response($meal, 200);
     }
 
     /**
      * Update the specified resource in storage.
      *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Models\Meal  $meal
+     * @param \Illuminate\Http\Request $request
+     * @param \App\Models\Meal $meal
      * @return \Illuminate\Http\Response
      */
     public function update(Request $request, Meal $meal)
@@ -130,7 +136,7 @@ class MealController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\Meal  $meal
+     * @param \App\Models\Meal $meal
      * @return \Illuminate\Http\Response
      */
     public function destroy(Meal $meal)
