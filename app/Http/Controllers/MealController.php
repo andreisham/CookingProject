@@ -158,6 +158,11 @@ class MealController extends Controller
         return response($meal, 200);
     }
 
+    public function random()
+    {
+        return response($this->mealsRepository->getRandom());
+    }
+
     /**
      * Update the specified resource in storage.
      *

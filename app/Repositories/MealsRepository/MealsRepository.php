@@ -28,4 +28,15 @@ class MealsRepository implements MealsRepositoryInterface
             ->get();
         return $meals->toArray();
     }
+
+    public function getRandom(): array
+    {
+        $mealsIds = Meal::select('id')
+            ->get()
+            ->toArray();
+        $mealId = $mealsIds[mt_rand(0, count($mealsIds))];
+
+        return Meal::find($mealId)
+            ->toArray();
+    }
 }
