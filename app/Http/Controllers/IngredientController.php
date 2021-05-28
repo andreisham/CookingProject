@@ -3,11 +3,19 @@
 namespace App\Http\Controllers;
 
 use App\Models\Ingredient;
+use App\Repositories\IngredientsRepository\IngredientsRepositoryInterface;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 
 class IngredientController extends Controller
 {
+    private IngredientsRepositoryInterface $ingredientRepository;
+
+    public function __construct(IngredientsRepositoryInterface $ingredientRepository)
+    {
+        $this->ingredientRepository = $ingredientRepository;
+    }
+
     /**
      * @OA\Get(
      *      path="/ingredients",
@@ -22,9 +30,7 @@ class IngredientController extends Controller
      */
     public function index()
     {
-        $ingredients = Ingredient::all();
-
-        return response($ingredients, 200);
+        return response($this->ingredientRepository->getAll());
     }
 
     /**
