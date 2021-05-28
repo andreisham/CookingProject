@@ -4,11 +4,19 @@ namespace App\Http\Controllers;
 
 use App\Models\Ingredient;
 use App\Models\Meal;
+use App\Repositories\MealsRepository\MealsRepositoryInterface;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 
 class MealController extends Controller
 {
+    private MealsRepositoryInterface $mealsRepository;
+
+    public function __construct(MealsRepositoryInterface $mealsRepository)
+    {
+        $this->mealsRepository = $mealsRepository;
+    }
+
     /**
      * @OA\Get(
      *      path="/meals",
@@ -34,25 +42,19 @@ class MealController extends Controller
     public function index(Request $request)
     {
         $validator = Validator::make($request->only('ingredient'), [
-            'ingredient' => 'string'
+            'ingredient' => 'nullable|int|exists:App\Models\Ingredient,id'
         ]);
 
         if ($validator->fails()) {
             return response(['errors' => $validator->errors()->all()], 422);
         }
 
-        $ingredient = $request->only('ingredient');
-        if (count($ingredient) > 0) {
-            $meals = Meal::where('ingredient1', $ingredient)
-                ->take(3)
-                ->get();
+        $ingredientId = $request->input('ingredient');
 
-            return response($meals, 200);
+        if (!$ingredientId) {
+            return response($this->mealsRepository->getAll());
         }
-
-        $meals = Meal::all();
-
-        return response($meals, 200);
+        return response($this->mealsRepository->getByIngredientId($ingredientId));
     }
 
     /**
