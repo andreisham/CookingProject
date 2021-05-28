@@ -6,26 +6,15 @@ use Illuminate\Support\Facades\Schema;
 
 class CreateIngredientsTable extends Migration
 {
-    /**
-     * Run the migrations.
-     *
-     * @return void
-     */
     public function up()
     {
         Schema::create('ingredients', function (Blueprint $table) {
             $table->id();
-            $table->string('title');
-            $table->text('description');
-            $table->timestamps();
+            $table->string('name', 255)->nullable(false);
+            $table->string('slack', 255)->nullable(false)->unique();
         });
     }
 
-    /**
-     * Reverse the migrations.
-     *
-     * @return void
-     */
     public function down()
     {
         Schema::dropIfExists('ingredients');
