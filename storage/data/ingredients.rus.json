@@ -1,0 +1,1934 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Цыпленок",
+            "slack": "chicken"
+        },
+        {
+            "id": 2,
+            "name": "Лосось",
+            "slack": "salmon"
+        },
+        {
+            "id": 3,
+            "name": "Говядина",
+            "slack": "beef"
+        },
+        {
+            "id": 4,
+            "name": "Свинина",
+            "slack": "pork"
+        },
+        {
+            "id": 5,
+            "name": "Авокадо",
+            "slack": "avocado"
+        },
+        {
+            "id": 6,
+            "name": "Паста с бантиком",
+            "slack": "bowtie_pasta"
+        },
+        {
+            "id": 7,
+            "name": "Яблоки Брэмли",
+            "slack": "bramley_apples"
+        },
+        {
+            "id": 8,
+            "name": "бренди",
+            "slack": "brandy"
+        },
+        {
+            "id": 9,
+            "name": "Хлеб",
+            "slack": "bread"
+        },
+        {
+            "id": 10,
+            "name": "Панировочные сухари",
+            "slack": "breadcrumbs"
+        },
+        {
+            "id": 11,
+            "name": "Брокколи",
+            "slack": "broccoli"
+        },
+        {
+            "id": 12,
+            "name": "Коричневая чечевица",
+            "slack": "brown_lentils"
+        },
+        {
+            "id": 13,
+            "name": "Коричневый рис",
+            "slack": "brown_rice"
+        },
+        {
+            "id": 14,
+            "name": "Коричневый сахар",
+            "slack": "brown_sugar"
+        },
+        {
+            "id": 15,
+            "name": "Масло",
+            "slack": "butter"
+        },
+        {
+            "id": 16,
+            "name": "Какао",
+            "slack": "cacao"
+        },
+        {
+            "id": 17,
+            "name": "Консервированные помидоры",
+            "slack": "canned_tomatoes"
+        },
+        {
+            "id": 18,
+            "name": "Фасоль Каннеллини",
+            "slack": "cannellini_beans"
+        },
+        {
+            "id": 19,
+            "name": "Кардамон",
+            "slack": "cardamom"
+        },
+        {
+            "id": 20,
+            "name": "Морковь",
+            "slack": "carrots"
+        },
+        {
+            "id": 21,
+            "name": "Орехи кешью",
+            "slack": "cashew_nuts"
+        },
+        {
+            "id": 22,
+            "name": "Кешью",
+            "slack": "cashews"
+        },
+        {
+            "id": 23,
+            "name": "Сахарная пудра",
+            "slack": "caster_sugar"
+        },
+        {
+            "id": 24,
+            "name": "Кайенский перец",
+            "slack": "cayenne_pepper"
+        },
+        {
+            "id": 25,
+            "name": "Сельдерей",
+            "slack": "celery"
+        },
+        {
+            "id": 26,
+            "name": "Соль сельдерея",
+            "slack": "celery_salt"
+        },
+        {
+            "id": 27,
+            "name": "Чалло",
+            "slack": "challots"
+        },
+        {
+            "id": 28,
+            "name": "Картофель Шарлотта",
+            "slack": "charlotte_potatoes"
+        },
+        {
+            "id": 29,
+            "name": "Сыр Чеддер",
+            "slack": "cheddar_cheese"
+        },
+        {
+            "id": 30,
+            "name": "Сыр",
+            "slack": "cheese"
+        },
+        {
+            "id": 31,
+            "name": "Сырный творог",
+            "slack": "cheese_curds"
+        },
+        {
+            "id": 32,
+            "name": "Помидоры черри",
+            "slack": "cherry_tomatoes"
+        },
+        {
+            "id": 33,
+            "name": "Куриная грудка",
+            "slack": "chicken_breast"
+        },
+        {
+            "id": 34,
+            "name": "Куриные грудки",
+            "slack": "chicken_breasts"
+        },
+        {
+            "id": 35,
+            "name": "Куриные ножки",
+            "slack": "chicken_legs"
+        },
+        {
+            "id": 36,
+            "name": "Куриный бульон",
+            "slack": "chicken_stock"
+        },
+        {
+            "id": 37,
+            "name": "Куриные бедра",
+            "slack": "chicken_thighs"
+        },
+        {
+            "id": 38,
+            "name": "Нут",
+            "slack": "chickpeas"
+        },
+        {
+            "id": 39,
+            "name": "Порошок чили",
+            "slack": "chili_powder"
+        },
+        {
+            "id": 40,
+            "name": "Перец чили",
+            "slack": "chilli"
+        },
+        {
+            "id": 41,
+            "name": "Порошок чили",
+            "slack": "chilli_powder"
+        },
+        {
+            "id": 42,
+            "name": "нарезанный лук",
+            "slack": "chopped_onion"
+        },
+        {
+            "id": 43,
+            "name": "Рубленая петрушка",
+            "slack": "chopped_parsley"
+        },
+        {
+            "id": 44,
+            "name": "Нарезанные помидоры",
+            "slack": "chopped_tomatoes"
+        },
+        {
+            "id": 45,
+            "name": "Рождественский пудинг",
+            "slack": "christmas_pudding"
+        },
+        {
+            "id": 46,
+            "name": "Кинза",
+            "slack": "cilantro"
+        },
+        {
+            "id": 47,
+            "name": "Корица",
+            "slack": "cinnamon"
+        },
+        {
+            "id": 48,
+            "name": "Палочка корицы",
+            "slack": "cinnamon_stick"
+        },
+        {
+            "id": 49,
+            "name": "Гвоздика",
+            "slack": "cloves"
+        },
+        {
+            "id": 50,
+            "name": "Коко-сахар",
+            "slack": "coco_sugar"
+        },
+        {
+            "id": 51,
+            "name": "Какао",
+            "slack": "cocoa"
+        },
+        {
+            "id": 52,
+            "name": "Кокосовое молоко",
+            "slack": "coconut_milk"
+        },
+        {
+            "id": 53,
+            "name": "Сыр Колби Джек",
+            "slack": "colby_jack_cheese"
+        },
+        {
+            "id": 54,
+            "name": "Сгущенное молоко",
+            "slack": "condensed_milk"
+        },
+        {
+            "id": 55,
+            "name": "Кориандр",
+            "slack": "coriander"
+        },
+        {
+            "id": 56,
+            "name": "Листья кориандра",
+            "slack": "coriander_leaves"
+        },
+        {
+            "id": 57,
+            "name": "Семена кориандра",
+            "slack": "coriander_seeds"
+        },
+        {
+            "id": 58,
+            "name": "кукурузные лепешки",
+            "slack": "corn_tortillas"
+        },
+        {
+            "id": 59,
+            "name": "Кукурузный крахмал",
+            "slack": "cornstarch"
+        },
+        {
+            "id": 60,
+            "name": "Сливки",
+            "slack": "cream"
+        },
+        {
+            "id": 61,
+            "name": "Кубики сыра Фета",
+            "slack": "cubed_feta_cheese"
+        },
+        {
+            "id": 62,
+            "name": "Огурец",
+            "slack": "cucumber"
+        },
+        {
+            "id": 63,
+            "name": "Тмин",
+            "slack": "cumin"
+        },
+        {
+            "id": 64,
+            "name": "Семена тмина",
+            "slack": "cumin_seeds"
+        },
+        {
+            "id": 65,
+            "name": "Порошок карри",
+            "slack": "curry_powder"
+        },
+        {
+            "id": 66,
+            "name": "Темный соевый соус",
+            "slack": "dark_soy_sauce"
+        },
+        {
+            "id": 67,
+            "name": "Помидоры, нарезанные кубиками",
+            "slack": "diced_tomatoes"
+        },
+        {
+            "id": 68,
+            "name": "Укроп",
+            "slack": "dill"
+        },
+        {
+            "id": 69,
+            "name": "Мясо донера",
+            "slack": "doner_meat"
+        },
+        {
+            "id": 70,
+            "name": "Двойной крем",
+            "slack": "double_cream"
+        },
+        {
+            "id": 71,
+            "name": "Сушеный орегано",
+            "slack": "dried_oregano"
+        },
+        {
+            "id": 72,
+            "name": "Белое сухое вино",
+            "slack": "dry_white_wine"
+        },
+        {
+            "id": 73,
+            "name": "Яичные рулетики",
+            "slack": "egg_rolls"
+        },
+        {
+            "id": 74,
+            "name": "Яичный белок",
+            "slack": "egg_white"
+        },
+        {
+            "id": 75,
+            "name": "Яичные желтки",
+            "slack": "egg_yolks"
+        },
+        {
+            "id": 76,
+            "name": "Яйца",
+            "slack": "eggs"
+        },
+        {
+            "id": 77,
+            "name": "Соус Энчилада",
+            "slack": "enchilada_sauce"
+        },
+        {
+            "id": 78,
+            "name": "Английская горчица",
+            "slack": "english_mustard"
+        },
+        {
+            "id": 79,
+            "name": "Оливковое масло первого отжима",
+            "slack": "extra_virgin_olive_oil"
+        },
+        {
+            "id": 80,
+            "name": "Фета",
+            "slack": "feta"
+        },
+        {
+            "id": 81,
+            "name": "Рыба Соус",
+            "slack": "fish_sauce"
+        },
+        {
+            "id": 82,
+            "name": "Мука",
+            "slack": "flour"
+        },
+        {
+            "id": 83,
+            "name": "Тортилья из муки",
+            "slack": "flour_tortilla"
+        },
+        {
+            "id": 84,
+            "name": "Мучнистый картофель",
+            "slack": "floury_potatoes"
+        },
+        {
+            "id": 85,
+            "name": "Французская чечевица",
+            "slack": "french_lentils"
+        },
+        {
+            "id": 86,
+            "name": "Свежий базилик",
+            "slack": "fresh_basil"
+        },
+        {
+            "id": 87,
+            "name": "Свежий тимьян",
+            "slack": "fresh_thyme"
+        },
+        {
+            "id": 88,
+            "name": "свежемолотая петрушка",
+            "slack": "freshly_chopped_parsley"
+        },
+        {
+            "id": 89,
+            "name": "Фри",
+            "slack": "fries"
+        },
+        {
+            "id": 90,
+            "name": "Чеснок",
+            "slack": "garlic"
+        },
+        {
+            "id": 91,
+            "name": "Зубчик чеснока",
+            "slack": "garlic_clove"
+        },
+        {
+            "id": 92,
+            "name": "Чесночный порошок",
+            "slack": "garlic_powder"
+        },
+        {
+            "id": 93,
+            "name": "Чесночный соус",
+            "slack": "garlic_sauce"
+        },
+        {
+            "id": 94,
+            "name": "Топленое масло",
+            "slack": "ghee"
+        },
+        {
+            "id": 95,
+            "name": "Имбирь",
+            "slack": "ginger"
+        },
+        {
+            "id": 96,
+            "name": "Имбирный кордиал",
+            "slack": "ginger_cordial"
+        },
+        {
+            "id": 97,
+            "name": "Имбирно-чесночная паста",
+            "slack": "ginger_garlic_paste"
+        },
+        {
+            "id": 98,
+            "name": "Имбирная паста",
+            "slack": "ginger_paste"
+        },
+        {
+            "id": 99,
+            "name": "Сыр Гауда",
+            "slack": "gouda_cheese"
+        },
+        {
+            "id": 100,
+            "name": "Греческий йогурт",
+            "slack": "greek_yogurt"
+        },
+        {
+            "id": 101,
+            "name": "Зеленая фасоль",
+            "slack": "green_beans"
+        },
+        {
+            "id": 102,
+            "name": "Зеленый перец чили",
+            "slack": "green_chilli"
+        },
+        {
+            "id": 103,
+            "name": "Зеленые оливки",
+            "slack": "green_olives"
+        },
+        {
+            "id": 104,
+            "name": "Зеленая красная чечевица",
+            "slack": "green_red_lentils"
+        },
+        {
+            "id": 105,
+            "name": "Миндаль молотый",
+            "slack": "ground_almonds"
+        },
+        {
+            "id": 106,
+            "name": "Молотый тмин",
+            "slack": "ground_cumin"
+        },
+        {
+            "id": 107,
+            "name": "Имбирь молотый",
+            "slack": "ground_ginger"
+        },
+        {
+            "id": 108,
+            "name": "Твердые ракушки тако",
+            "slack": "hard_taco_shells"
+        },
+        {
+            "id": 109,
+            "name": "Густые сливки",
+            "slack": "heavy_cream"
+        },
+        {
+            "id": 110,
+            "name": "Мед",
+            "slack": "honey"
+        },
+        {
+            "id": 111,
+            "name": "Хрен",
+            "slack": "horseradish"
+        },
+        {
+            "id": 112,
+            "name": "Горячий говяжий бульон",
+            "slack": "hot_beef_stock"
+        },
+        {
+            "id": 113,
+            "name": "Мороженое",
+            "slack": "ice_cream"
+        },
+        {
+            "id": 114,
+            "name": "Итальянские сосиски с фенхелем",
+            "slack": "italian_fennel_sausages"
+        },
+        {
+            "id": 115,
+            "name": "Итальянская приправа",
+            "slack": "italian_seasoning"
+        },
+        {
+            "id": 116,
+            "name": "Халапеньо",
+            "slack": "jalapeno"
+        },
+        {
+            "id": 117,
+            "name": "Жасминовый рис",
+            "slack": "jasmine_rice"
+        },
+        {
+            "id": 118,
+            "name": "Топинамбур",
+            "slack": "jerusalem_artichokes"
+        },
+        {
+            "id": 119,
+            "name": "Королевские креветки",
+            "slack": "king_prawns"
+        },
+        {
+            "id": 120,
+            "name": "Ягненок",
+            "slack": "lamb"
+        },
+        {
+            "id": 121,
+            "name": "Бараньи отбивные",
+            "slack": "lamb_loin_chops"
+        },
+        {
+            "id": 122,
+            "name": "Фарш из баранины",
+            "slack": "lamb_mince"
+        },
+        {
+            "id": 123,
+            "name": "Листы лазаньи",
+            "slack": "lasagne_sheets"
+        },
+        {
+            "id": 124,
+            "name": "Постный говяжий фарш",
+            "slack": "lean_minced_beef"
+        },
+        {
+            "id": 125,
+            "name": "Лук-порей",
+            "slack": "leek"
+        },
+        {
+            "id": 126,
+            "name": "Лимон",
+            "slack": "lemon"
+        },
+        {
+            "id": 127,
+            "name": "Лимонный сок",
+            "slack": "lemon_juice"
+        },
+        {
+            "id": 128,
+            "name": "Цедра лимона",
+            "slack": "lemon_zest"
+        },
+        {
+            "id": 129,
+            "name": "Лимоны",
+            "slack": "lemons"
+        },
+        {
+            "id": 130,
+            "name": "Салат",
+            "slack": "lettuce"
+        },
+        {
+            "id": 131,
+            "name": "Лайм",
+            "slack": "lime"
+        },
+        {
+            "id": 132,
+            "name": "Макароны",
+            "slack": "macaroni"
+        },
+        {
+            "id": 133,
+            "name": "Маккерель",
+            "slack": "mackerel"
+        },
+        {
+            "id": 134,
+            "name": "Майоран",
+            "slack": "marjoram"
+        },
+        {
+            "id": 135,
+            "name": "Молоко",
+            "slack": "milk"
+        },
+        {
+            "id": 136,
+            "name": "Рубленый чеснок",
+            "slack": "minced_garlic"
+        },
+        {
+            "id": 137,
+            "name": "Горчица",
+            "slack": "mustard"
+        },
+        {
+            "id": 138,
+            "name": "Горчичный порошок",
+            "slack": "mustard_powder"
+        },
+        {
+            "id": 139,
+            "name": "Семена горчицы",
+            "slack": "mustard_seeds"
+        },
+        {
+            "id": 140,
+            "name": "Мускатный орех",
+            "slack": "nutmeg"
+        },
+        {
+            "id": 141,
+            "name": "Оливковое масло",
+            "slack": "olive_oil"
+        },
+        {
+            "id": 142,
+            "name": "Лук",
+            "slack": "onions"
+        },
+        {
+            "id": 143,
+            "name": "Апельсин",
+            "slack": "orange"
+        },
+        {
+            "id": 144,
+            "name": "Апельсиновая цедра",
+            "slack": "orange_zest"
+        },
+        {
+            "id": 145,
+            "name": "Орегано",
+            "slack": "oregano"
+        },
+        {
+            "id": 146,
+            "name": "Устричный соус",
+            "slack": "oyster_sauce"
+        },
+        {
+            "id": 147,
+            "name": "Паприка",
+            "slack": "paprika"
+        },
+        {
+            "id": 148,
+            "name": "Пармская ветчина",
+            "slack": "parma_ham"
+        },
+        {
+            "id": 149,
+            "name": "Пармезан",
+            "slack": "parmesan"
+        },
+        {
+            "id": 150,
+            "name": "Сыр Пармезан",
+            "slack": "parmesan_cheese"
+        },
+        {
+            "id": 151,
+            "name": "Петрушка",
+            "slack": "parsley"
+        },
+        {
+            "id": 152,
+            "name": "Арахис",
+            "slack": "peanuts"
+        },
+        {
+            "id": 153,
+            "name": "Горох",
+            "slack": "peas"
+        },
+        {
+            "id": 154,
+            "name": "Перец",
+            "slack": "pepper"
+        },
+        {
+            "id": 155,
+            "name": "Кедровые орехи",
+            "slack": "pine_nuts"
+        },
+        {
+            "id": 156,
+            "name": "Черные оливки без косточек",
+            "slack": "pitted_black_olives"
+        },
+        {
+            "id": 157,
+            "name": "Обычный шоколад",
+            "slack": "plain_chocolate"
+        },
+        {
+            "id": 158,
+            "name": "Простая мука",
+            "slack": "plain_flour"
+        },
+        {
+            "id": 159,
+            "name": "Помидоры сливы",
+            "slack": "plum_tomatoes"
+        },
+        {
+            "id": 160,
+            "name": "Картофельный крахмал",
+            "slack": "potato_starch"
+        },
+        {
+            "id": 161,
+            "name": "Картофель",
+            "slack": "potatoes"
+        },
+        {
+            "id": 162,
+            "name": "Креветки",
+            "slack": "prawns"
+        },
+        {
+            "id": 163,
+            "name": "Слоеное тесто",
+            "slack": "puff_pastry"
+        },
+        {
+            "id": 164,
+            "name": "Малиновое варенье",
+            "slack": "raspberry_jam"
+        },
+        {
+            "id": 165,
+            "name": "Сырые королевские креветки",
+            "slack": "raw_king_prawns"
+        },
+        {
+            "id": 166,
+            "name": "Красный перец чили",
+            "slack": "red_chilli"
+        },
+        {
+            "id": 167,
+            "name": "Порошок красного перца чили",
+            "slack": "red_chilli_powder"
+        },
+        {
+            "id": 168,
+            "name": "Красный перец",
+            "slack": "red_pepper"
+        },
+        {
+            "id": 169,
+            "name": "Красное вино",
+            "slack": "red_wine"
+        },
+        {
+            "id": 170,
+            "name": "Жареные бобы",
+            "slack": "refried_beans"
+        },
+        {
+            "id": 171,
+            "name": "Рис",
+            "slack": "rice"
+        },
+        {
+            "id": 172,
+            "name": "Рисовая лапша",
+            "slack": "rice_noodles"
+        },
+        {
+            "id": 173,
+            "name": "Лапша из рисовых палочек",
+            "slack": "rice_stick_noodles"
+        },
+        {
+            "id": 174,
+            "name": "Вермишель рисовая",
+            "slack": "rice_vermicelli"
+        },
+        {
+            "id": 175,
+            "name": "Ригатони",
+            "slack": "rigatoni"
+        },
+        {
+            "id": 176,
+            "name": "Ракета",
+            "slack": "rocket"
+        },
+        {
+            "id": 177,
+            "name": "Овсяные хлопья",
+            "slack": "rolled_oats"
+        },
+        {
+            "id": 178,
+            "name": "Шафран",
+            "slack": "saffron"
+        },
+        {
+            "id": 179,
+            "name": "Сливочное масло",
+            "slack": "salted_butter"
+        },
+        {
+            "id": 180,
+            "name": "Колбасы",
+            "slack": "sausages"
+        },
+        {
+            "id": 181,
+            "name": "Мука самовращающаяся",
+            "slack": "self-raising_flour"
+        },
+        {
+            "id": 182,
+            "name": "Полужирное молоко",
+            "slack": "semi-skimmed_milk"
+        },
+        {
+            "id": 183,
+            "name": "Кунжутное семя",
+            "slack": "sesame_seed"
+        },
+        {
+            "id": 184,
+            "name": "Тертый мексиканский сыр",
+            "slack": "shredded_mexican_cheese"
+        },
+        {
+            "id": 185,
+            "name": "Маленький картофель",
+            "slack": "small_potatoes"
+        },
+        {
+            "id": 186,
+            "name": "Паприка копченая",
+            "slack": "smoked_paprika"
+        },
+        {
+            "id": 187,
+            "name": "Паприка дымчатая",
+            "slack": "smoky_paprika"
+        },
+        {
+            "id": 188,
+            "name": "Сметана",
+            "slack": "sour_cream"
+        },
+        {
+            "id": 189,
+            "name": "Соевый соус",
+            "slack": "soy_sauce"
+        },
+        {
+            "id": 190,
+            "name": "Соевое молоко",
+            "slack": "soya_milk"
+        },
+        {
+            "id": 191,
+            "name": "Спагетти",
+            "slack": "spaghetti"
+        },
+        {
+            "id": 192,
+            "name": "Шпинат",
+            "slack": "spinach"
+        },
+        {
+            "id": 193,
+            "name": "Зеленый лук",
+            "slack": "spring_onions"
+        },
+        {
+            "id": 194,
+            "name": "Жареные овощи",
+            "slack": "stir-fry_vegetables"
+        },
+        {
+            "id": 195,
+            "name": "Клубника",
+            "slack": "strawberries"
+        },
+        {
+            "id": 196,
+            "name": "Тайская зеленая паста карри",
+            "slack": "thai_green_curry_paste"
+        },
+        {
+            "id": 197,
+            "name": "Тайская красная паста карри",
+            "slack": "thai_red_curry_paste"
+        },
+        {
+            "id": 198,
+            "name": "Тимьян",
+            "slack": "thyme"
+        },
+        {
+            "id": 199,
+            "name": "Томатный кетчуп",
+            "slack": "tomato_ketchup"
+        },
+        {
+            "id": 200,
+            "name": "Томатное пюре",
+            "slack": "tomato_puree"
+        },
+        {
+            "id": 201,
+            "name": "Помидоры",
+            "slack": "tomatoes"
+        },
+        {
+            "id": 202,
+            "name": "Тунец",
+            "slack": "tuna"
+        },
+        {
+            "id": 203,
+            "name": "Куркума",
+            "slack": "turmeric"
+        },
+        {
+            "id": 204,
+            "name": "Порошок куркумы",
+            "slack": "turmeric_powder"
+        },
+        {
+            "id": 205,
+            "name": "Репа",
+            "slack": "turnips"
+        },
+        {
+            "id": 206,
+            "name": "Ваниль",
+            "slack": "vanilla"
+        },
+        {
+            "id": 207,
+            "name": "Телятина",
+            "slack": "veal"
+        },
+        {
+            "id": 208,
+            "name": "Растительное масло",
+            "slack": "vegetable_oil"
+        },
+        {
+            "id": 209,
+            "name": "Овощной бульон",
+            "slack": "vegetable_stock"
+        },
+        {
+            "id": 210,
+            "name": "Кубик овощного бульона",
+            "slack": "vegetable_stock_cube"
+        },
+        {
+            "id": 211,
+            "name": "Заправка для винегрета",
+            "slack": "vinaigrette_dressing"
+        },
+        {
+            "id": 212,
+            "name": "Белая рыба",
+            "slack": "white_fish"
+        },
+        {
+            "id": 213,
+            "name": "Филе белой рыбы",
+            "slack": "white_fish_fillets"
+        },
+        {
+            "id": 214,
+            "name": "Белое вино",
+            "slack": "white_wine"
+        },
+        {
+            "id": 215,
+            "name": "Цельное молоко",
+            "slack": "whole_milk"
+        },
+        {
+            "id": 216,
+            "name": "Цельная пшеница",
+            "slack": "whole_wheat"
+        },
+        {
+            "id": 217,
+            "name": "Цельнозерновой хлеб",
+            "slack": "wholegrain_bread"
+        },
+        {
+            "id": 218,
+            "name": "Йогурт",
+            "slack": "yogurt"
+        },
+        {
+            "id": 219,
+            "name": "Кабачок",
+            "slack": "zucchini"
+        },
+        {
+            "id": 220,
+            "name": "Крендели",
+            "slack": "pretzels"
+        },
+        {
+            "id": 221,
+            "name": "Сливочный сыр",
+            "slack": "cream_cheese"
+        },
+        {
+            "id": 222,
+            "name": "Сахарная пудра",
+            "slack": "icing_sugar"
+        },
+        {
+            "id": 223,
+            "name": "Тальятелле",
+            "slack": "tagliatelle"
+        },
+        {
+            "id": 224,
+            "name": "Fettuccine",
+            "slack": "fettuccine"
+        },
+        {
+            "id": 225,
+            "name": "Сгущенные сливки",
+            "slack": "clotted_cream"
+        },
+        {
+            "id": 226,
+            "name": "Мидии",
+            "slack": "mussels"
+        },
+        {
+            "id": 227,
+            "name": "Паста с вермишелью",
+            "slack": "vermicelli_pasta"
+        },
+        {
+            "id": 228,
+            "name": "Малыш-кальмар",
+            "slack": "baby_squid"
+        },
+        {
+            "id": 229,
+            "name": "Кальмар",
+            "slack": "squid"
+        },
+        {
+            "id": 230,
+            "name": "Рыбный бульон",
+            "slack": "fish_stock"
+        },
+        {
+            "id": 231,
+            "name": "Черные оливки",
+            "slack": "black_olives"
+        },
+        {
+            "id": 232,
+            "name": "Лук",
+            "slack": "onion"
+        },
+        {
+            "id": 233,
+            "name": "Помидор",
+            "slack": "tomato"
+        },
+        {
+            "id": 234,
+            "name": "Утка",
+            "slack": "duck"
+        },
+        {
+            "id": 235,
+            "name": "Утиные ножки",
+            "slack": "duck_legs"
+        },
+        {
+            "id": 236,
+            "name": "Кубик куриного бульона",
+            "slack": "chicken_stock_cube"
+        },
+        {
+            "id": 237,
+            "name": "Паста Паппарделле",
+            "slack": "pappardelle_pasta"
+        },
+        {
+            "id": 238,
+            "name": "Паста Пачери",
+            "slack": "paccheri_pasta"
+        },
+        {
+            "id": 239,
+            "name": "Паста из лингвини",
+            "slack": "linguine_pasta"
+        },
+        {
+            "id": 240,
+            "name": "Хлеб с хрустящей корочкой",
+            "slack": "crusty_bread"
+        },
+        {
+            "id": 241,
+            "name": "Моллюски",
+            "slack": "clams"
+        },
+        {
+            "id": 242,
+            "name": "Баранья ножка",
+            "slack": "lamb_leg"
+        },
+        {
+            "id": 243,
+            "name": "Лопатка ягненка",
+            "slack": "lamb_shoulder"
+        },
+        {
+            "id": 244,
+            "name": "Абрикос",
+            "slack": "apricot"
+        },
+        {
+            "id": 245,
+            "name": "Говяжий фарш",
+            "slack": "minced_beef"
+        },
+        {
+            "id": 246,
+            "name": "Фарш из индейки",
+            "slack": "turkey_mince"
+        },
+        {
+            "id": 247,
+            "name": "Соус барбекю",
+            "slack": "barbeque_sauce"
+        },
+        {
+            "id": 248,
+            "name": "Гусиный жир",
+            "slack": "goose_fat"
+        },
+        {
+            "id": 249,
+            "name": "Утиный жир",
+            "slack": "duck_fat"
+        },
+        {
+            "id": 250,
+            "name": "Фасоль",
+            "slack": "haricot_beans"
+        },
+        {
+            "id": 251,
+            "name": "Розмарин",
+            "slack": "rosemary"
+        },
+        {
+            "id": 252,
+            "name": "Масляная фасоль",
+            "slack": "butter_beans"
+        },
+        {
+            "id": 253,
+            "name": "Фасоль пинто",
+            "slack": "pinto_beans"
+        },
+        {
+            "id": 254,
+            "name": "Томатный соус",
+            "slack": "tomato_sauce"
+        },
+        {
+            "id": 255,
+            "name": "Моцарелла",
+            "slack": "mozzarella"
+        },
+        {
+            "id": 256,
+            "name": "Рикотта",
+            "slack": "ricotta"
+        },
+        {
+            "id": 257,
+            "name": "Сушеные абрикосы",
+            "slack": "dried_apricots"
+        },
+        {
+            "id": 258,
+            "name": "Каперсы",
+            "slack": "capers"
+        },
+        {
+            "id": 259,
+            "name": "Банан",
+            "slack": "banana"
+        },
+        {
+            "id": 260,
+            "name": "Малина",
+            "slack": "raspberries"
+        },
+        {
+            "id": 261,
+            "name": "Черника",
+            "slack": "blueberries"
+        },
+        {
+            "id": 262,
+            "name": "Грецкие орехи",
+            "slack": "walnuts"
+        },
+        {
+            "id": 263,
+            "name": "Орехи пекан",
+            "slack": "pecan_nuts"
+        },
+        {
+            "id": 264,
+            "name": "Кленовый сироп",
+            "slack": "maple_syrup"
+        },
+        {
+            "id": 265,
+            "name": "Молочный шоколад",
+            "slack": "milk_chocolate"
+        },
+        {
+            "id": 266,
+            "name": "Темный шоколад",
+            "slack": "dark_chocolate"
+        },
+        {
+            "id": 267,
+            "name": "Тыква",
+            "slack": "pumpkin"
+        },
+        {
+            "id": 268,
+            "name": "Песочное тесто",
+            "slack": "shortcrust_pastry"
+        },
+        {
+            "id": 269,
+            "name": "Арахисовое печенье",
+            "slack": "peanut_cookies"
+        },
+        {
+            "id": 270,
+            "name": "Листья желатина",
+            "slack": "gelatine_leafs"
+        },
+        {
+            "id": 271,
+            "name": "Хрупкий арахис",
+            "slack": "peanut_brittle"
+        },
+        {
+            "id": 272,
+            "name": "Персики",
+            "slack": "peaches"
+        },
+        {
+            "id": 273,
+            "name": "Желтый перец",
+            "slack": "yellow_pepper"
+        },
+        {
+            "id": 274,
+            "name": "Зеленый перец",
+            "slack": "green_pepper"
+        },
+        {
+            "id": 275,
+            "name": "Кабачки",
+            "slack": "courgettes"
+        },
+        {
+            "id": 276,
+            "name": "Томатные консервы",
+            "slack": "tinned_tomatos"
+        },
+        {
+            "id": 277,
+            "name": "Каштаны",
+            "slack": "chestnuts"
+        },
+        {
+            "id": 278,
+            "name": "Грибы",
+            "slack": "wild_mushrooms"
+        },
+        {
+            "id": 279,
+            "name": "Чечевица",
+            "slack": "lentils"
+        },
+        {
+            "id": 280,
+            "name": "Жареные овощи",
+            "slack": "roasted_vegetables"
+        },
+        {
+            "id": 281,
+            "name": "Фасоль",
+            "slack": "kidney_beans"
+        },
+        {
+            "id": 282,
+            "name": "Лапша Удон",
+            "slack": "udon_noodles"
+        },
+        {
+            "id": 283,
+            "name": "Капуста",
+            "slack": "cabbage"
+        },
+        {
+            "id": 284,
+            "name": "Грибы шиитаке",
+            "slack": "shiitake_mushrooms"
+        },
+        {
+            "id": 285,
+            "name": "Мирин",
+            "slack": "mirin"
+        },
+        {
+            "id": 286,
+            "name": "Кунжутное масло",
+            "slack": "sesame_seed_oil"
+        },
+        {
+            "id": 287,
+            "name": "Багет",
+            "slack": "baguette"
+        },
+        {
+            "id": 288,
+            "name": "Сало",
+            "slack": "suet"
+        },
+        {
+            "id": 289,
+            "name": "Ветчина",
+            "slack": "ham"
+        },
+        {
+            "id": 290,
+            "name": "Устрицы",
+            "slack": "oysters"
+        },
+        {
+            "id": 291,
+            "name": "Сало",
+            "slack": "lard"
+        },
+        {
+            "id": 292,
+            "name": "Почки ягненка",
+            "slack": "lamb_kidney"
+        },
+        {
+            "id": 293,
+            "name": "Говяжья почка",
+            "slack": "beef_kidney"
+        },
+        {
+            "id": 294,
+            "name": "Брюссельская капуста",
+            "slack": "brussels_sprouts"
+        },
+        {
+            "id": 295,
+            "name": "Изюм",
+            "slack": "raisins"
+        },
+        {
+            "id": 296,
+            "name": "Смородина",
+            "slack": "currants"
+        },
+        {
+            "id": 297,
+            "name": "Заварной крем",
+            "slack": "custard"
+        },
+        {
+            "id": 298,
+            "name": "Смешанный пилинг",
+            "slack": "mixed_peel"
+        },
+        {
+            "id": 299,
+            "name": "Красная смородина",
+            "slack": "redcurrants"
+        },
+        {
+            "id": 300,
+            "name": "Ежевика",
+            "slack": "blackberries"
+        },
+        {
+            "id": 301,
+            "name": "Яблоки Брэберн",
+            "slack": "braeburn_apples"
+        },
+        {
+            "id": 302,
+            "name": "Абрикосовое варенье",
+            "slack": "apricot_jam"
+        },
+        {
+            "id": 303,
+            "name": "Миндаль",
+            "slack": "almonds"
+        },
+        {
+            "id": 304,
+            "name": "Кровяная колбаса",
+            "slack": "black_pudding"
+        },
+        {
+            "id": 305,
+            "name": "Запеченная фасоль",
+            "slack": "baked_beans"
+        },
+        {
+            "id": 306,
+            "name": "Белая мука",
+            "slack": "white_flour"
+        },
+        {
+            "id": 307,
+            "name": "Дрожжи",
+            "slack": "yeast"
+        },
+        {
+            "id": 308,
+            "name": "Фруктовый микс",
+            "slack": "fruit_mix"
+        },
+        {
+            "id": 309,
+            "name": "Сухофрукты",
+            "slack": "dried_fruit"
+        },
+        {
+            "id": 310,
+            "name": "Вишня",
+            "slack": "cherry"
+        },
+        {
+            "id": 311,
+            "name": "Патока",
+            "slack": "treacle"
+        },
+        {
+            "id": 312,
+            "name": "Овсянка",
+            "slack": "oatmeal"
+        },
+        {
+            "id": 313,
+            "name": "Овес",
+            "slack": "oats"
+        },
+        {
+            "id": 314,
+            "name": "Яйцо",
+            "slack": "egg"
+        },
+        {
+            "id": 315,
+            "name": "Говяжий голень",
+            "slack": "beef_shin"
+        },
+        {
+            "id": 316,
+            "name": "Яблоки",
+            "slack": "apples"
+        },
+        {
+            "id": 317,
+            "name": "Козий сыр",
+            "slack": "goats_cheese"
+        },
+        {
+            "id": 318,
+            "name": "Бри",
+            "slack": "brie"
+        },
+        {
+            "id": 319,
+            "name": "Листья эстрагона",
+            "slack": "tarragon_leaves"
+        },
+        {
+            "id": 320,
+            "name": "Зеленый лук",
+            "slack": "chives"
+        },
+        {
+            "id": 321,
+            "name": "Груши",
+            "slack": "pears"
+        },
+        {
+            "id": 322,
+            "name": "Белый шоколад",
+            "slack": "white_chocolate"
+        },
+        {
+            "id": 323,
+            "name": "Звездчатый анис",
+            "slack": "star_anise"
+        },
+        {
+            "id": 324,
+            "name": "Тигровые креветки",
+            "slack": "tiger_prawns"
+        },
+        {
+            "id": 325,
+            "name": "Порошок заварного крема",
+            "slack": "custard_powder"
+        },
+        {
+            "id": 326,
+            "name": "Сушеный кокос",
+            "slack": "desiccated_coconut"
+        },
+        {
+            "id": 327,
+            "name": "Горох замороженный",
+            "slack": "frozen_peas"
+        },
+        {
+            "id": 328,
+            "name": "Фарш из свинины",
+            "slack": "minced_pork"
+        },
+        {
+            "id": 329,
+            "name": "Кукуруза в сливках",
+            "slack": "creamed_corn"
+        },
+        {
+            "id": 330,
+            "name": "Вяленые на солнце помидоры",
+            "slack": "sun-dried_tomatoes"
+        },
+        {
+            "id": 331,
+            "name": "Дижонская горчица",
+            "slack": "dijon_mustard"
+        },
+        {
+            "id": 332,
+            "name": "Соус Табаско",
+            "slack": "tabasco_sauce"
+        },
+        {
+            "id": 333,
+            "name": "Масло канолы",
+            "slack": "canola_oil"
+        },
+        {
+            "id": 334,
+            "name": "Треска",
+            "slack": "cod"
+        },
+        {
+            "id": 335,
+            "name": "Треска соленая",
+            "slack": "salt_cod"
+        },
+        {
+            "id": 336,
+            "name": "Говяжий фарш",
+            "slack": "ground_beef"
+        },
+        {
+            "id": 337,
+            "name": "Бобы",
+            "slack": "broad_beans"
+        },
+        {
+            "id": 338,
+            "name": "Красный окунь",
+            "slack": "red_snapper"
+        },
+        {
+            "id": 339,
+            "name": "Тофу",
+            "slack": "tofu"
+        },
+        {
+            "id": 340,
+            "name": "Зеленый лук",
+            "slack": "scallions"
+        },
+        {
+            "id": 341,
+            "name": "Крахмал",
+            "slack": "starch"
+        },
+        {
+            "id": 342,
+            "name": "Ростки фасоли",
+            "slack": "bean_sprouts"
+        },
+        {
+            "id": 343,
+            "name": "Лапша",
+            "slack": "noodles"
+        },
+        {
+            "id": 344,
+            "name": "Деревянные ушные грибы",
+            "slack": "wood_ear_mushrooms"
+        },
+        {
+            "id": 345,
+            "name": "Темный ром",
+            "slack": "dark_rum"
+        },
+        {
+            "id": 346,
+            "name": "Светлый ром",
+            "slack": "light_rum"
+        },
+        {
+            "id": 347,
+            "name": "Ром",
+            "slack": "rum"
+        },
+        {
+            "id": 348,
+            "name": "Английские маффины",
+            "slack": "english_muffins"
+        },
+        {
+            "id": 349,
+            "name": "Маффины",
+            "slack": "muffins"
+        },
+        {
+            "id": 350,
+            "name": "Копченый лосось",
+            "slack": "smoked_salmon"
+        },
+        {
+            "id": 351,
+            "name": "Душистый перец",
+            "slack": "allspice"
+        },
+        {
+            "id": 352,
+            "name": "Козье мясо",
+            "slack": "goat_meat"
+        },
+        {
+            "id": 353,
+            "name": "Черная фасоль",
+            "slack": "black_beans"
+        },
+        {
+            "id": 354,
+            "name": "Филе анчоуса",
+            "slack": "anchovy_fillet"
+        },
+        {
+            "id": 355,
+            "name": "Фарш",
+            "slack": "mincemeat"
+        },
+        {
+            "id": 356,
+            "name": "Сладкий картофель",
+            "slack": "sweet_potatoes"
+        },
+        {
+            "id": 357,
+            "name": "Булочки",
+            "slack": "bread_rolls"
+        },
+        {
+            "id": 358,
+            "name": "Булочка",
+            "slack": "bun"
+        },
+        {
+            "id": 359,
+            "name": "Картофельные булочки",
+            "slack": "potatoe_buns"
+        },
+        {
+            "id": 360,
+            "name": "Свиной фарш",
+            "slack": "ground_pork"
+        },
+        {
+            "id": 361,
+            "name": "Свиные отбивные",
+            "slack": "pork_chops"
+        },
+        {
+            "id": 362,
+            "name": "Золотая картошка Юкон",
+            "slack": "yukon_gold_potatoes"
+        },
+        {
+            "id": 363,
+            "name": "Желтый лук",
+            "slack": "yellow_onion"
+        },
+        {
+            "id": 364,
+            "name": "Концентрат говяжьего бульона",
+            "slack": "beef_stock_concentrate"
+        },
+        {
+            "id": 365,
+            "name": "Концентрат куриного бульона",
+            "slack": "chicken_stock_concentrate"
+        },
+        {
+            "id": 366,
+            "name": "Персидский огурец",
+            "slack": "persian_cucumber"
+        },
+        {
+            "id": 367,
+            "name": "Майонез",
+            "slack": "mayonnaise"
+        },
+        {
+            "id": 368,
+            "name": "Пита",
+            "slack": "pita_bread"
+        },
+        {
+            "id": 369,
+            "name": "Булгур Пшеничное",
+            "slack": "bulgur_wheat"
+        },
+        {
+            "id": 370,
+            "name": "Соленые огурцы",
+            "slack": "dill_pickles"
+        },
+        {
+            "id": 371,
+            "name": "Булочки для бургеров с семенами кунжута",
+            "slack": "sesame_seed_burger_buns"
+        },
+        {
+            "id": 372,
+            "name": "Булочки",
+            "slack": "buns"
+        },
+        {
+            "id": 373,
+            "name": "Салат Айсберг",
+            "slack": "iceberg_lettuce"
+        },
+        {
+            "id": 374,
+            "name": "Ломтики сыра",
+            "slack": "cheese_slices"
+        },
+        {
+            "id": 375,
+            "name": "Сахарная пудра",
+            "slack": "powdered_sugar"
+        },
+        {
+            "id": 376,
+            "name": "Колбаса польская",
+            "slack": "polish_sausage"
+        },
+        {
+            "id": 377,
+            "name": "Квашеная капуста",
+            "slack": "sauerkraut"
+        },
+        {
+            "id": 378,
+            "name": "Семя тмина",
+            "slack": "caraway_seed"
+        },
+        {
+            "id": 379,
+            "name": "Селедка",
+            "slack": "herring"
+        },
+        {
+            "id": 380,
+            "name": "Варенье",
+            "slack": "jam"
+        },
+        {
+            "id": 381,
+            "name": "Рис для суши",
+            "slack": "sushi_rice"
+        },
+        {
+            "id": 382,
+            "name": "Инжир",
+            "slack": "figs"
+        },
+        {
+            "id": 383,
+            "name": "Сидр",
+            "slack": "cider"
+        },
+        {
+            "id": 384,
+            "name": "Свекла",
+            "slack": "beetroot"
+        },
+        {
+            "id": 385,
+            "name": "Сардины",
+            "slack": "sardines"
+        },
+        {
+            "id": 386,
+            "name": "Чиабатта",
+            "slack": "ciabatta"
+        }
+    ]
+}
