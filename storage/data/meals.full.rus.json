@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Коричневая тушеная курица",
-            "api_img": "https://www.themealdb.com/images/media/foods/sypxpx1515365095.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg",
             "api_id": "52940",
             "ingredients_id": [
                 1,
@@ -39,7 +39,7 @@
         {
             "id": 2,
             "name": "Куриный и грибной котелок",
-            "api_img": "https://www.themealdb.com/images/media/foods/uuuspp1511297945.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
             "api_id": "52846",
             "ingredients_id": [
                 1,
@@ -69,7 +69,7 @@
         {
             "id": 3,
             "name": "Цыпленок Альфредо Примавера",
-            "api_img": "https://www.themealdb.com/images/media/foods/syqypv1486981727.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
             "api_id": "52796",
             "ingredients_id": [
                 1,
@@ -105,7 +105,7 @@
         {
             "id": 4,
             "name": "Куриный баскез",
-            "api_img": "https://www.themealdb.com/images/media/foods/wruvqv1511880994.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg",
             "api_id": "52934",
             "ingredients_id": [
                 1,
@@ -144,7 +144,7 @@
         {
             "id": 5,
             "name": "Куриный отвар",
-            "api_img": "https://www.themealdb.com/images/media/foods/1529446352.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
             "api_id": "52956",
             "ingredients_id": [
                 1,
@@ -172,7 +172,7 @@
         {
             "id": 6,
             "name": "Куриный ханди",
-            "api_img": "https://www.themealdb.com/images/media/foods/wyxwsp1486979827.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
             "api_id": "52795",
             "ингредиенты": [
                 1,
@@ -210,7 +210,7 @@
         {
             "id": 7,
             "name": "Жареный цыпленок по-Кентукки",
-            "api_img": "https://www.themealdb.com/images/media/foods/xqusqy1487348868.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xqusqy1487348868.jpg",
             "api_id": "52813",
             "ingredients_id": [
                 1,
@@ -246,7 +246,7 @@
         {
             "id": 8,
             "name": "Цыпленок Кунг Пао",
-            "api_img": "https://www.themealdb.com/images/media/foods/1525872624.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
             "api_id": "52945",
             "ingredients_id": [
                 1,
@@ -278,7 +278,7 @@
         {
             "id": 9,
             "name": "Pad See Ew",
-            "api_img": "https://www.themealdb.com/images/media/foods/uuuspp1468263334.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
             "api_id": "52774",
             "ingredients_id": [
                 1,
@@ -309,7 +309,7 @@
         {
             "id": 10,
             "name": "Цыпленок пири-пири и телятина",
-            "api_img": "https://www.themealdb.com/images/media/foods/hglsbl1614346998.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/hglsbl1614346998.jpg",
             "api_id": "53039",
             "ingredients_id": [
                 1,
@@ -345,7 +345,7 @@
         {
             "id": 11,
             "name": "Тайское зеленое карри",
-            "api_img": "https://www.themealdb.com/images/media/foods/sstssx1487349585.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/sstssx1487349585.jpg",
             "api_id": "52814",
             "ingredients_id": [
                 1,
@@ -376,7 +376,7 @@
         {
             "id": 12,
             "name": "Запеченный лосось с укропом и помидорами",
-            "api_img": "https://www.themealdb.com/images/media/foods/1548772327.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
             "api_id": "52959",
             "ingredients_id": [
                 2,
@@ -401,7 +401,7 @@
         {
             "id": 13,
             "name": "Медовый лосось терияки",
-            "api_img": "https://www.themealdb.com/images/media/foods/xxyupu1468262513.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
             "api_id": "52773",
             "ingredients_id": [
                 2,
@@ -422,7 +422,7 @@
         {
             "id": 14,
             "name": "Салат с лососем и авокадо",
-            "api_img": "https://www.themealdb.com/images/media/foods/1549542994.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1549542994.jpg",
             "api_id": "52960",
             "ingredients_id": [
                 2,
@@ -449,7 +449,7 @@
         {
             "id": 15,
             "name": "Ризотто из креветок лосося",
-            "api_img": "https://www.themealdb.com/images/media/foods/xxrxux1503070723.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
             "api_id": "52823",
             "ingredients_id": [
                 2,
@@ -481,7 +481,7 @@
         {
             "id": 16,
             "name": "Пирог с тремя рыбками",
-            "api_img": "https://www.themealdb.com/images/media/foods/spswqs1511558697.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/spswqs1511558697.jpg",
             "api_id": "52882",
             "ingredients_id": [
                 2,
@@ -513,7 +513,7 @@
         {
             "id": 17,
             "name": "Пирог с говядиной и горчицей",
-            "api_img": "https://www.themealdb.com/images/media/foods/sytuqu1511553755.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg",
             "api_id": "52874",
             "ingredients_id": [
                 3,
@@ -549,7 +549,7 @@
         {
             "id": 18,
             "name": "Пирог с говядиной и устрицами",
-            "api_img": "https://www.themealdb.com/images/media/foods/wrssvt1511556563.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wrssvt1511556563.jpg",
             "api_id": "52878",
             "ingredients_id": [
                 3,
@@ -581,7 +581,7 @@
         {
             "id": 19,
             "name": "Тушеная говяжья клецка",
-            "api_img": "https://www.themealdb.com/images/media/foods/uyqrrv1511553350.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/uyqrrv1511553350.jpg",
             "api_id": "52873",
             "ingredients_id": [
                 3,
@@ -620,7 +620,7 @@
         {
             "id": 20,
             "name": "Говядина Ло Мейн",
-            "api_img": "https://www.themealdb.com/images/media/foods/1529444830.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
             "api_id": "52952",
             "ингредиенты": [
                 3,
@@ -658,7 +658,7 @@
         {
             "id": 21,
             "name": "Ренданг из говядины",
-            "api_img": "https://www.themealdb.com/images/media/foods/bc8v651619789840.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/bc8v651619789840.jpg",
             "api_id": "53053",
             "ingredients_id": [
                 3,
@@ -689,7 +689,7 @@
         {
             "id": 22,
             "name": "Воскресное жаркое из говядины",
-            "api_img": "https://www.themealdb.com/images/media/foods/ssrrrs1503664277.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ssrrrs1503664277.jpg",
             "api_id": "52824",
             "ingredients_id": [
                 3,
@@ -716,7 +716,7 @@
         {
             "id": 23,
             "name": "Bitterballen (голландские фрикадельки)",
-            "api_img": "https://www.themealdb.com/images/media/foods/lhqev81565090111.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/lhqev81565090111.jpg",
             "api_id": "52979",
             "ingredients_id": [
                 3,
@@ -747,7 +747,7 @@
         {
             "id": 24,
             "name": "Тушеная говядина Чили",
-            "api_img": "https://www.themealdb.com/images/media/foods/uuqvwu1504629254.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg",
             "api_id": "52826",
             "ingredients_id": [
                 3,
@@ -784,7 +784,7 @@
         {
             "id": 25,
             "name": "Египетский фаттех",
-            "api_img": "https://www.themealdb.com/images/media/foods/rlwcc51598734603.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/rlwcc51598734603.jpg",
             "api_id": "53031",
             "ingredients_id": [
                 3,
@@ -822,7 +822,7 @@
         {
             "id": 26,
             "name": "Карри из Массаманской говядины",
-            "api_img": "https://www.themealdb.com/images/media/foods/tvttqv1504640475.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg",
             "api_id": "52827",
             "ingredients_id": [
                 3,
@@ -855,7 +855,7 @@
         {
             "id": 27,
             "name": "Мусака",
-            "api_img": "https://www.themealdb.com/images/media/foods/ctg8jd1585563097.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg",
             "api_id": "53006",
             "ingredients_id": [
                 3,
@@ -882,7 +882,7 @@
         {
             "id": 29,
             "name": "Суп из красного горошка",
-            "api_img": "https://www.themealdb.com/images/media/foods/sqpqtp1515365614.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/sqpqtp1515365614.jpg",
             "api_id": "52941",
             "ingredients_id": [
                 3,
@@ -917,7 +917,7 @@
         {
             "id": 30,
             "name": "Стейк и пирог с почками",
-            "api_img": "https://www.themealdb.com/images/media/foods/qysyss1511558054.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qysyss1511558054.jpg",
             "api_id": "52881",
             "ingredients_id": [
                 3,
@@ -950,7 +950,7 @@
         {
             "id": 31,
             "name": "Сычуаньская говядина",
-            "api_img": "https://www.themealdb.com/images/media/foods/1529443236.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1529443236.jpg",
             "api_id": "52950",
             "ingredients_id": [
                 3,
@@ -991,7 +991,7 @@
         {
             "id": 32,
             "name": "Неряшливые блюда из свинины барбекю",
-            "api_img": "https://www.themealdb.com/images/media/foods/atd5sh1583188467.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
             "api_id": "52995",
             "ingredients_id": [
                 4,
@@ -1024,7 +1024,7 @@
         {
             "id": 33,
             "name": "Bigos (Охотничье рагу)",
-            "api_img": "https://www.themealdb.com/images/media/foods/md8w601593348504.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/md8w601593348504.jpg",
             "api_id": "53018",
             "ingredients_id": [
                 4,
@@ -1063,7 +1063,7 @@
         {
             "id": 34,
             "name": "Горячий и кислый суп",
-            "api_img": "https://www.themealdb.com/images/media/foods/1529445893.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
             "api_id": "52954",
             "ingredients_id": [
                 4,
@@ -1096,7 +1096,7 @@
         {
             "id": 35,
             "name": "Японский Кацудон",
-            "api_img": "https://www.themealdb.com/images/media/foods/d8f6qx1604182128.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/d8f6qx1604182128.jpg",
             "api_id": "53034",
             "ingredients_id": [
                 4,
@@ -1127,7 +1127,7 @@
         {
             "id": 36,
             "name": "Кассуле из свинины",
-            "api_img": "https://www.themealdb.com/images/media/foods/wxuvuv1511299147.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wxuvuv1511299147.jpg",
             "api_id": "52847",
             "ingredients_id": [
                 4,
@@ -1164,7 +1164,7 @@
         {
             "id": 37,
             "name": "Португальская жареная свинина (Febras assadas)",
-            "api_img": "https://www.themealdb.com/images/media/foods/cybyue1614349443.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/cybyue1614349443.jpg",
             "api_id": "53044",
             "ingredients_id": [
                 4,
@@ -1194,7 +1194,7 @@
         {
             "id": 38,
             "name": "Сковорода Яблочных свиных отбивных с жареным сладким картофелем и кабачками",
-            "api_img": "https://www.themealdb.com/images/media/foods/h3ijwo1581013377.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/h3ijwo1581013377.jpg",
             "api_id": "52994",
             "ingredients_id": [
                 4,
@@ -1225,7 +1225,7 @@
         {
             "id": 39,
             "name": "Snert (Голландский расщепленный гороховый суп)",
-            "api_img": "https://www.themealdb.com/images/media/foods/9ptx0a1565090843.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/9ptx0a1565090843.jpg",
             "api_id": "52981",
             "ингредиенты": [
                 4,
@@ -1257,7 +1257,7 @@
         {
             "id": 40,
             "name": "Кисло-сладкая свинина",
-            "api_img": "https://www.themealdb.com/images/media/foods/1529442316.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1529442316.jpg",
             "api_id": "52949",
             "ingredients_id": [
                 4,
@@ -1285,7 +1285,7 @@
         {
             "id": 41,
             "name": "вьетнамский шашлык из свинины (бан тхит-nuong)",
-            "api_img": "https://www.themealdb.com/images/media/foods/qqwypw1504642429.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qqwypw1504642429.jpg",
             "api_id": "52828",
             "ingredients_id": [
                 4,
@@ -1320,7 +1320,7 @@
         {
             "id": 42,
             "name": "Вонтоны",
-            "api_img": "https://www.themealdb.com/images/media/foods/1525876468.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
             "api_id": "52948",
             "ingredients_id": [
                 4,
@@ -1351,7 +1351,7 @@
         {
             "id": 43,
             "name": "Тако из рыбы со специями по-каджунски",
-            "api_img": "https://www.themealdb.com/images/media/foods/uvuyxu1503067369.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
             "api_id": "52819",
             "ingredients_id": [
                 5,
@@ -1382,7 +1382,7 @@
         {
             "id": 44,
             "name": "Nutpea Fajitas",
-            "api_img": "https://www.themealdb.com/images/media/foods/tvtxpq1511464705.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg",
             "api_id": "52870",
             "ingredients_id": [
                 5,
@@ -1413,7 +1413,7 @@
         {
             "id": 45,
             "name": "Шоколадный мусс из авокадо",
-            "api_img": "https://www.themealdb.com/images/media/foods/uttuxy1511382180.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/uttuxy1511382180.jpg",
             "api_id": "52853",
             "ingredients_id": [
                 5,
@@ -1439,7 +1439,7 @@
         {
             "id": 46,
             "name": "Тако с курицей, запеченным в мультиварке",
-            "api_img": "https://www.themealdb.com/images/media/foods/ypxvwv1505333929.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg",
             "api_id": "52830",
             "ingredients_id": [
                 5,
@@ -1475,7 +1475,7 @@
         {
             "id": 47,
             "name": "Яблочный пирог с франжипаном",
-            "api_img": "https://www.themealdb.com/images/media/foods/wxywrq1468235067.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
             "api_id": "52768",
             "ingredients_id": [
                 7,
@@ -1500,7 +1500,7 @@
         {
             "id": 48,
             "name": "Классический рождественский пудинг",
-            "api_img": "https://www.themealdb.com/images/media/foods/1d85821576790598.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1d85821576790598.jpg",
             "api_id": "52988",
             "ingredients_id": [
                 7,
@@ -1532,7 +1532,7 @@
         {
             "id": 49,
             "name": "Coq auvin",
-            "api_img": "https://www.themealdb.com/images/media/foods/qstyvs1505931190.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg",
             "api_id": "52832",
             "ingredients_id": [
                 8,
@@ -1571,7 +1571,7 @@
         {
             "id": 50,
             "name": "Груша Тарт Татин",
-            "api_img": "https://www.themealdb.com/images/media/foods/rxvxrr1511797671.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/rxvxrr1511797671.jpg",
             "api_id": "52916",
             "ingredients_id": [
                 8,
@@ -1599,7 +1599,7 @@
         {
             "id": 51,
             "name": "Креветочный и укропный бисквит",
-            "api_img": "https://www.themealdb.com/images/media/foods/rtwwvv1511799504.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/rtwwvv1511799504.jpg",
             "api_id": "52922",
             "ingredients_id": [
                 8,
@@ -1633,7 +1633,7 @@
         {
             "id": 52,
             "name": "Стейк Дайан",
-            "api_img": "https://www.themealdb.com/images/media/foods/vussxq1511882648.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vussxq1511882648.jpg",
             "api_id": "52935",
             "ingredients_id": [
                 8,
@@ -1668,7 +1668,7 @@
         {
             "id": 53,
             "name": "Хлебно - масляный пудинг",
-            "api_img": "https://www.themealdb.com/images/media/foods/xqwwpy1483908697.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg",
             "api_id": "52792",
             "ingredients_id": [
                 9,
@@ -1696,7 +1696,7 @@
         {
             "id": 54,
             "name": "Лингвини с креветками и чили",
-            "api_img": "https://www.themealdb.com/images/media/foods/usywpp1511189717.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg",
             "api_id": "52839",
             "ingredients_id": [
                 9,
@@ -1729,7 +1729,7 @@
         {
             "id": 55,
             "name": "Английский завтрак",
-            "api_img": "https://www.themealdb.com/images/media/foods/utxryw1511721587.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/utxryw1511721587.jpg",
             "api_id": "52895",
             "ingredients_id": [
                 9,
@@ -1753,7 +1753,7 @@
         {
             "id": 56,
             "name": "Французский луковый суп",
-            "api_img": "https://www.themealdb.com/images/media/foods/xvrrux1511783685.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xvrrux1511783685.jpg",
             "api_id": "52903",
             "ingredients_id": [
                 9,
@@ -1782,7 +1782,7 @@
         {
             "id": 57,
             "name": "Полный английский завтрак",
-            "api_img": "https://www.themealdb.com/images/media/foods/sqrtwu1511721265.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/sqrtwu1511721265.jpg",
             "api_id": "52896",
             "ingredients_id": [
                 9,
@@ -1808,7 +1808,7 @@
         {
             "id": 58,
             "name": "Бутерброды с лазаньей",
-            "api_img": "https://www.themealdb.com/images/media/foods/xr0n4r1576788363.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xr0n4r1576788363.jpg",
             "api_id": "52987",
             "ingredients_id": [
                 9,
@@ -1836,7 +1836,7 @@
         {
             "id": 59,
             "name": "соя-застекленная мясная рулетка с картофельным пюре с васаби и жареный морковь",
-            "api_img": "https://www.themealdb.com/images/media/foods/o2wb6p1581005243.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/o2wb6p1581005243.jpg",
             "api_id": "52992",
             "ingredients_id": [
                 9,
@@ -1869,7 +1869,7 @@
         {
             "id": 60,
             "name": "Расколотый гороховый суп",
-            "api_img": "https://www.themealdb.com/images/media/foods/xxtsvx1511814083.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xxtsvx1511814083.jpg",
             "api_id": "52925",
             "ingredients_id": [
                 9,
@@ -1896,7 +1896,7 @@
         {
             "id": 61,
             "name": "Летний пудинг",
-            "api_img": "https://www.themealdb.com/images/media/foods/rsqwus1511640214.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/rsqwus1511640214.jpg",
             "api_id": "52889",
             "ingredients_id": [
                 9,
@@ -1920,7 +1920,7 @@
         {
             "id": 62,
             "name": "Рыбный фофос",
-            "api_img": "https://www.themealdb.com/images/media/foods/a15wsa1614349126.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
             "api_id": "53043",
             "ingredients_id": [
                 10,
@@ -1954,7 +1954,7 @@
         {
             "id": 63,
             "name": "Карри с курицей Катсу",
-            "api_img": "https://www.themealdb.com/images/media/foods/vwrpps1503068729.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
             "api_id": "52820",
             "ingredients_id": [
                 10,
@@ -1989,7 +1989,7 @@
         {
             "id": 64,
             "name": "Ротоло с грибами и каштанами",
-            "api_img": "https://www.themealdb.com/images/media/foods/ssyqwr1511451678.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ssyqwr1511451678.jpg",
             "api_id": "52864",
             "ingredients_id": [
                 10,
@@ -2022,7 +2022,7 @@
         {
             "id": 65,
             "name": "Свинина Тонкацу",
-            "api_img": "https://www.themealdb.com/images/media/foods/lwsnkl1604181187.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/lwsnkl1604181187.jpg",
             "api_id": "53032",
             "ingredients_id": [
                 10,
@@ -2051,7 +2051,7 @@
         {
             "id": 66,
             "name": "Пирог с патокой",
-            "api_img": "https://www.themealdb.com/images/media/foods/wprvrw1511641295.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wprvrw1511641295.jpg",
             "api_id": "52892",
             "ingredients_id": [
                 10,
@@ -2074,7 +2074,7 @@
         {
             "id": 67,
             "name": "Мясной рулет из индейки",
-            "api_img": "https://www.themealdb.com/images/media/foods/ypuxtw1511297463.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ypuxtw1511297463.jpg",
             "api_id": "52845",
             "ingredients_id": [
                 10,
@@ -2107,7 +2107,7 @@
         {
             "id": 68,
             "name": "Суп из брокколи и Стилтона",
-            "api_img": "https://www.themealdb.com/images/media/foods/tvvxpv1511191952.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg",
             "api_id": "52842",
             "ингредиенты": [
                 11,
@@ -2135,7 +2135,7 @@
         {
             "id": 69,
             "name": "Медовый Бальзамический цыпленок с хрустящей брокколи и картофелем",
-            "api_img": "https://www.themealdb.com/images/media/foods/kvbotn1581012881.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/kvbotn1581012881.jpg",
             "api_id": "52993",
             "ingredients_id": [
                 11,
@@ -2166,7 +2166,7 @@
         {
             "id": 70,
             "name": "Кошари",
-            "api_img": "https://www.themealdb.com/images/media/foods/4er7mj1598733193.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
             "api_id": "53027",
             "ingredients_id": [
                 12,
@@ -2193,7 +2193,7 @@
         {
             "id": 71,
             "name": "Жареные Баклажаны с Тахини, Кедровыми орешками и Чечевицей",
-            "api_img": "https://www.themealdb.com/images/media/foods/ysqrus1487425681.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ysqrus1487425681.jpg",
             "api_id": "52816",
             "ingredients_id": [
                 12,
@@ -2227,7 +2227,7 @@
         {
             "id": 72,
             "name": "Овощной пастуший пирог",
-            "api_img": "https://www.themealdb.com/images/media/foods/w8umt11583268117.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/w8umt11583268117.jpg",
             "api_id": "53000",
             "ingredients_id": [
                 12,
@@ -2266,7 +2266,7 @@
         {
             "id": 73,
             "name": "Куриная запеканка Терияки",
-            "api_img": "https://www.themealdb.com/images/media/foods/wvpsxx1468256321.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
             "api_id": "52772",
             "ingredients_id": [
                 13,
@@ -2295,7 +2295,7 @@
         {
             "id": 74,
             "name": "Chelsea Buns",
-            "api_img": "https://www.themealdb.com/images/media/foods/vqpwrv1511723001.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vqpwrv1511723001.jpg",
             "api_id": "52898",
             "ingredients_id": [
                 14,
@@ -2327,7 +2327,7 @@
         {
             "id": 75,
             "name": "Креветки Кунг По",
-            "api_img": "https://www.themealdb.com/images/media/foods/1525873040.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
             "api_id": "52946",
             "ingredients_id": [
                 14,
@@ -2359,7 +2359,7 @@
         {
             "id": 76,
             "name": "Торт Паркин",
-            "api_img": "https://www.themealdb.com/images/media/foods/qxuqtt1511724269.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qxuqtt1511724269.jpg",
             "api_id": "52902",
             "ingredients_id": [
                 14,
@@ -2387,7 +2387,7 @@
         {
             "id": 77,
             "name": "Пушистый чомер",
-            "api_img": "https://www.themealdb.com/images/media/foods/yqqqwu1511816912.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/yqqqwu1511816912.jpg",
             "api_id": "52932",
             "ingredients_id": [
                 14,
@@ -2415,7 +2415,7 @@
         {
             "id": 78,
             "name": "Сахарный пирог",
-            "api_img": "https://www.themealdb.com/images/media/foods/yrstur1511816601.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/yrstur1511816601.jpg",
             "api_id": "52931",
             "ingredients_id": [
                 14,
@@ -2439,7 +2439,7 @@
         {
             "id": 79,
             "name": "Bubble & Squeak",
-            "api_img": "https://www.themealdb.com/images/media/foods/xusqvw1511638311.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xusqvw1511638311.jpg",
             "api_id": "52885",
             "ingredients_id": [
                 15,
@@ -2462,7 +2462,7 @@
         {
             "id": 80,
             "name": "Apple & Blackberry Crumble",
-            "api_img": "https://www.themealdb.com/images/media/foods/xvsurr1511719182.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg",
             "api_id": "52893",
             "ingredients_id": [
                 15,
@@ -2488,7 +2488,7 @@
         {
             "id": 81,
             "name": "Бейквелл пирог",
-            "api_img": "https://www.themealdb.com/images/media/foods/wyrqqq1468233628.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg",
             "api_id": "52767",
             "ingredients_id": [
                 15,
@@ -2515,7 +2515,7 @@
         {
             "id": 82,
             "name": "Торт Баттенберг",
-            "api_img": "https://www.themealdb.com/images/media/foods/ywwrsp1511720277.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ywwrsp1511720277.jpg",
             "api_id": "52894",
             "ingredients_id": [
                 15,
@@ -2543,7 +2543,7 @@
         {
             "id": 83,
             "name": "BeaverTails",
-            "api_img": "https://www.themealdb.com/images/media/foods/ryppsv1511815505.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ryppsv1511815505.jpg",
             "api_id": "52928",
             "ingredients_id": [
                 15,
@@ -2572,7 +2572,7 @@
         {
             "id": 84,
             "name": "Бефстроганов",
-            "api_img": "https://www.themealdb.com/images/media/foods/svprys1511176755.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg",
             "api_id": "52834",
             "ingredients_id": [
                 15,
@@ -2602,7 +2602,7 @@
         {
             "id": 85,
             "name": "Ежевичный дурак",
-            "api_img": "https://www.themealdb.com/images/media/foods/rpvptu1511641092.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/rpvptu1511641092.jpg",
             "api_id": "52891",
             "ingredients_id": [
                 15,
@@ -2632,7 +2632,7 @@
         {
             "id": 86,
             "name": "Боксти-завтрак",
-            "api_img": "https://www.themealdb.com/images/media/foods/naqyel1608588563.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/naqyel1608588563.jpg",
             "api_id": "53036",
             "ingredients_id": [
                 15,
@@ -2664,7 +2664,7 @@
         {
             "id": 87,
             "name": "Бри, завернутый в прошутто и бриошь",
-            "api_img": "https://www.themealdb.com/images/media/foods/qqpwsy1511796276.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qqpwsy1511796276.jpg",
             "api_id": "52913",
             "ingredients_id": [
                 15,
@@ -2691,7 +2691,7 @@
         {
             "id": 88,
             "name": "Канадские пироги с маслом",
-            "api_img": "https://www.themealdb.com/images/media/foods/wpputp1511812960.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wpputp1511812960.jpg",
             "api_id": "52923",
             "ingredients_id": [
                 15,
@@ -2716,7 +2716,7 @@
         {
             "id": 89,
             "name": "Пирог с куриной ветчиной и луком-пореем",
-            "api_img": "https://www.themealdb.com/images/media/foods/xrrtss1511555269.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg",
             "api_id": "52875",
             "ingredients_id": [
                 15,
@@ -2752,7 +2752,7 @@
         {
             "id": 90,
             "name": "Парментье с курицей",
-            "api_img": "https://www.themealdb.com/images/media/foods/uwvxpv1511557015.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/uwvxpv1511557015.jpg",
             "api_id": "52879",
             "ingredients_id": [
                 15,
@@ -2789,7 +2789,7 @@
         {
             "id": 91,
             "name": "Курица Киноа Греческий салат",
-            "api_img": "https://www.themealdb.com/images/media/foods/k29viq1585565980.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg",
             "api_id": "53011",
             "ingredients_id": [
                 15,
@@ -2820,7 +2820,7 @@
         {
             "id": 92,
             "name": "Choc Chip Pecan Pie",
-            "api_img": "https://www.themealdb.com/images/media/foods/rqvwxt1511384809.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/rqvwxt1511384809.jpg",
             "api_id": "52856",
             "ingredients_id": [
                 15,
@@ -2850,7 +2850,7 @@
         {
             "id": 93,
             "name": "Хрустящие шоколадно-карамельные",
-            "api_img": "https://www.themealdb.com/images/media/foods/1550442508.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1550442508.jpg",
             "api_id": "52966",
             "ingredients_id": [
                 15,
@@ -2868,7 +2868,7 @@
         {
             "id": 94,
             "name": "Шоколадный гейто",
-            "api_img": "https://www.themealdb.com/images/media/foods/tqtywx1468317395.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg",
             "api_id": "52776",
             "ingredients_id": [
                 15,
@@ -2891,7 +2891,7 @@
         {
             "id": 95,
             "name": "Шоколадное суфле",
-            "api_img": "https://www.themealdb.com/images/media/foods/twspvx1511784937.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/twspvx1511784937.jpg",
             "api_id": "52905",
             "ingredients_id": [
                 15,
@@ -2917,7 +2917,7 @@
         {
             "id": 96,
             "name": "Рождественский торт",
-            "api_img": "https://www.themealdb.com/images/media/foods/ldnrm91576791881.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ldnrm91576791881.jpg",
             "api_id": "52990",
             "ingredients_id": [
                 15,
@@ -2952,7 +2952,7 @@
         {
             "id": 97,
             "name": "Похлебка из моллюсков",
-            "api_img": "https://www.themealdb.com/images/media/foods/rvtvuw1511190488.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg",
             "api_id": "52840",
             "ingredients_id": [
                 15,
@@ -2984,7 +2984,7 @@
         {
             "id": 98,
             "name": "Изнеженная свинина с сидром",
-            "api_img": "https://www.themealdb.com/images/media/foods/7vpsfp1608588991.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/7vpsfp1608588991.jpg",
             "api_id": "53037",
             "ингредиенты": [
                 15,
@@ -3013,7 +3013,7 @@
         {
             "id": 99,
             "name": "Сливочный сырный пирог",
-            "api_img": "https://www.themealdb.com/images/media/foods/wurrux1468416624.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
             "api_id": "52779",
             "ingredients_id": [
                 15,
@@ -3046,7 +3046,7 @@
         {
             "id": 100,
             "name": "Торт Данди",
-            "api_img": "https://www.themealdb.com/images/media/foods/wxyvqq1511723401.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wxyvqq1511723401.jpg",
             "api_id": "52899",
             "ingredients_id": [
                 15,
@@ -3080,7 +3080,7 @@
         {
             "id": 101,
             "name": "Eccles Cakes",
-            "api_img": "https://www.themealdb.com/images/media/foods/wtqrqw1511639627.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wtqrqw1511639627.jpg",
             "api_id": "52888",
             "ingredients_id": [
                 15,
@@ -3111,7 +3111,7 @@
         {
             "id": 102,
             "name": "Фенхель Дофинуаз",
-            "api_img": "https://www.themealdb.com/images/media/foods/ytttsv1511798734.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ytttsv1511798734.jpg",
             "api_id": "52919",
             "ingredients_id": [
                 15,
@@ -3136,7 +3136,7 @@
         {
             "id": 103,
             "name": "Феттуцин альфредо",
-            "api_img": "https://www.themealdb.com/images/media/foods/uquqtu1511178042.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg",
             "api_id": "52835",
             "ingredients_id": [
                 15,
@@ -3161,7 +3161,7 @@
         {
             "id": 104,
             "name": "Flamiche",
-            "api_img": "https://www.themealdb.com/images/media/foods/wssvvs1511785879.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wssvvs1511785879.jpg",
             "api_id": "52906",
             "ingredients_id": [
                 15,
@@ -3191,7 +3191,7 @@
         {
             "id": 105,
             "name": "Французский омлет",
-            "api_img": "https://www.themealdb.com/images/media/foods/yvpuuy1511797244.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg",
             "api_id": "52915",
             "ingredients_id": [
                 15,
@@ -3215,7 +3215,7 @@
         {
             "id": 106,
             "name": "французский луковый суп куриный с запеченным морковь и картофельное пюре",
-            "api_img": "https://www.themealdb.com/images/media/foods/b5ft861583188991.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/b5ft861583188991.jpg",
             "api_id": "52996",
             "ingredients_id": [
                 15,
@@ -3247,7 +3247,7 @@
         {
             "id": 107,
             "name": "Капустный рулет",
-            "api_img": "https://www.themealdb.com/images/media/foods/q8sp3j1593349686.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/q8sp3j1593349686.jpg",
             "api_id": "53021",
             "ingredients_id": [
                 15,
@@ -3277,7 +3277,7 @@
         {
             "id": 108,
             "name": "Сэндвич с жареными макаронами и сыром",
-            "api_img": "https://www.themealdb.com/images/media/foods/xutquv1505330523.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xutquv1505330523.jpg",
             "api_id": "52829",
             "ingredients_id": [
                 15,
@@ -3312,7 +3312,7 @@
         {
             "id": 109,
             "name": "Кольканнон окорока",
-            "api_img": "https://www.themealdb.com/images/media/foods/n41ny81608588066.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/n41ny81608588066.jpg",
             "api_id": "53035",
             "ingredients_id": [
                 15,
@@ -3342,7 +3342,7 @@
         {
             "id": 110,
             "name": "Медовый Йогуртовый чизкейк",
-            "api_img": "https://www.themealdb.com/images/media/foods/y2irzl1585563479.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/y2irzl1585563479.jpg",
             "api_id": "53007",
             "ingredients_id": [
                 15,
@@ -3372,7 +3372,7 @@
         {
             "id": 111,
             "name": "Варенье Роли-Поли",
-            "api_img": "https://www.themealdb.com/images/media/foods/ysqupp1511640538.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ysqupp1511640538.jpg",
             "api_id": "52890",
             "ingredients_id": [
                 15,
@@ -3398,7 +3398,7 @@
         {
             "id": 112,
             "name": "Ямайские говяжьи котлеты",
-            "api_img": "https://www.themealdb.com/images/media/foods/wsqqsw1515364068.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wsqqsw1515364068.jpg",
             "api_id": "52938",
             "ingredients_id": [
                 15,
@@ -3433,7 +3433,7 @@
         {
             "id": 113,
             "name": "Келея Заара",
-            "api_img": "https://www.themealdb.com/images/media/foods/8x09hy1560460923.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg",
             "api_id": "52974",
             "ingredients_id": [
                 15,
@@ -3460,7 +3460,7 @@
         {
             "id": 114,
             "name": "Лаймовый пирог",
-            "api_img": "https://www.themealdb.com/images/media/foods/qpqtuu1511386216.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qpqtuu1511386216.jpg",
             "api_id": "52859",
             "ingredients_id": [
                 15,
@@ -3485,7 +3485,7 @@
         {
             "id": 115,
             "name": "Кумпир",
-            "апи_имг": "https://www.themealdb.com/images/media/foods/mlchx21564916997.jpg",
+            "апи_имг": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg",
             "api_id": "52978",
             "ingredients_id": [
                 15,
@@ -3508,7 +3508,7 @@
         {
             "id": 116,
             "name": "Ланкаширское тушеное мясо",
-            "api_img": "https://www.themealdb.com/images/media/foods/uttrxw1511637813.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/uttrxw1511637813.jpg",
             "api_id": "52884",
             "ingredients_id": [
                 15,
@@ -3538,7 +3538,7 @@
         {
             "id": 117,
             "name": "Торт Мадейра",
-            "api_img": "https://www.themealdb.com/images/media/foods/urtqut1511723591.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/urtqut1511723591.jpg",
             "api_id": "52900",
             "ingredients_id": [
                 15,
@@ -3564,7 +3564,7 @@
         {
             "id": 118,
             "name": "Пироги с мясным фаршем",
-            "api_img": "https://www.themealdb.com/images/media/foods/qe8pf51576795532.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qe8pf51576795532.jpg",
             "api_id": "52991",
             "ingredients_id": [
                 15,
@@ -3587,7 +3587,7 @@
         {
             "id": 119,
             "name": "Горчичный чемпион",
-            "api_img": "https://www.themealdb.com/images/media/foods/o7p9581608589317.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/o7p9581608589317.jpg",
             "api_id": "53038",
             "ingredients_id": [
                 15,
@@ -3609,7 +3609,7 @@
         {
             "id": 120,
             "name": "Нанаймо Барс",
-            "api_img": "https://www.themealdb.com/images/media/foods/vwuprt1511813703.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vwuprt1511813703.jpg",
             "api_id": "52924",
             "ingredients_id": [
                 15,
@@ -3643,7 +3643,7 @@
         {
             "id": 121,
             "name": "Чизкейк Нью-Йорк",
-            "api_img": "https://www.themealdb.com/images/media/foods/swttys1511385853.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/swttys1511385853.jpg",
             "api_id": "52858",
             "ingredients_id": [
                 15,
@@ -3670,7 +3670,7 @@
         {
             "id": 122,
             "name": "Osso Buco alla Milanese",
-            "api_img": "https://www.themealdb.com/images/media/foods/wwuqvt1487345467.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
             "api_id": "52810",
             "ingredients_id": [
                 15,
@@ -3708,7 +3708,7 @@
         {
             "id": 123,
             "name": "Paszteciki (Польские чебуреки)",
-            "api_img": "https://www.themealdb.com/images/media/foods/c9a3l31593261890.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/c9a3l31593261890.jpg",
             "api_id": "53017",
             "ingredients_id": [
                 15,
@@ -3734,7 +3734,7 @@
         {
             "id": 124,
             "name": "Шинуа паштет",
-            "api_img": "https://www.themealdb.com/images/media/foods/yyrrxr1511816289.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/yyrrxr1511816289.jpg",
             "api_id": "52930",
             "ingredients_id": [
                 15,
@@ -3765,7 +3765,7 @@
         {
             "id": 125,
             "name": "Peach & Blueberry Grunt",
-            "api_img": "https://www.themealdb.com/images/media/foods/ssxvup1511387476.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ssxvup1511387476.jpg",
             "api_id": "52862",
             "ingredients_id": [
                 15,
@@ -3795,7 +3795,7 @@
         {
             "id": 126,
             "name": "Чизкейк с арахисовым маслом",
-            "api_img": "https://www.themealdb.com/images/media/foods/qtuuys1511387068.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qtuuys1511387068.jpg",
             "api_id": "52861",
             "ingredients_id": [
                 15,
@@ -3824,7 +3824,7 @@
         {
             "id": 127,
             "name": "Пьероги (Польские пельмени)",
-            "api_img": "https://www.themealdb.com/images/media/foods/45xxr21593348847.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/45xxr21593348847.jpg",
             "api_id": "53019",
             "ingredients_id": [
                 15,
@@ -3852,7 +3852,7 @@
         {
             "id": 128,
             "name": "Польские блины",
-            "api_img": "https://www.themealdb.com/images/media/foods/58bkyo1593350017.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/58bkyo1593350017.jpg",
             "api_id": "53022",
             "ingredients_id": [
                 15,
@@ -3875,7 +3875,7 @@
         {
             "id": 129,
             "name": "Тыквенный пирог",
-            "api_img": "https://www.themealdb.com/images/media/foods/usuqtp1511385394.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/usuqtp1511385394.jpg",
             "api_id": "52857",
             "ingredients_id": [
                 15,
@@ -3907,7 +3907,7 @@
         {
             "id": 130,
             "name": "Раппи-пирог",
-            "api_img": "https://www.themealdb.com/images/media/foods/ruwpww1511817242.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ruwpww1511817242.jpg",
             "api_id": "52933",
             "ingredients_id": [
                 15,
@@ -3931,7 +3931,7 @@
         {
             "id": 131,
             "name": "Рок-торты",
-            "api_img": "https://www.themealdb.com/images/media/foods/tqrrsq1511723764.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/tqrrsq1511723764.jpg",
             "api_id": "52901",
             "ingredients_id": [
                 15,
@@ -3957,7 +3957,7 @@
         {
             "id": 132,
             "name": "Рогалики (Польское печенье с круассанами)",
-            "api_img": "https://www.themealdb.com/images/media/foods/7mxnzz1593350801.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/7mxnzz1593350801.jpg",
             "api_id": "53024",
             "ingredients_id": [
                 15,
@@ -3980,7 +3980,7 @@
         {
             "id": 133,
             "name": "Яйца лососевых яиц Бенедикт",
-            "api_img": "https://www.themealdb.com/images/media/foods/1550440197.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1550440197.jpg",
             "api_id": "52962",
             "ingredients_id": [
                 15,
@@ -4006,7 +4006,7 @@
         {
             "id": 134,
             "name": "Чизкейк с Соленой карамелью",
-            "api_img": "https://www.themealdb.com/images/media/foods/xqrwyr1511133646.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xqrwyr1511133646.jpg",
             "api_id": "52833",
             "ingredients_id": [
                 15,
@@ -4034,7 +4034,7 @@
         {
             "id": 135,
             "name": "Копченая пикша Кеджери",
-            "api_img": "https://www.themealdb.com/images/media/foods/1550441275.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1550441275.jpg",
             "api_id": "52964",
             "ingredients_id": [
                 15,
@@ -4066,7 +4066,7 @@
         {
             "id": 136,
             "name": "Испанская тортилья",
-            "api_img": "https://www.themealdb.com/images/media/foods/quuxsx1511476154.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/quuxsx1511476154.jpg",
             "api_id": "52872",
             "ingredients_id": [
                 15,
@@ -4095,7 +4095,7 @@
         {
             "id": 137,
             "name": "Зеленый лук и креветки эмпанады",
-            "api_img": "https://www.themealdb.com/images/media/foods/1c5oso1614347493.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1c5oso1614347493.jpg",
             "api_id": "53040",
             "ingredients_id": [
                 15,
@@ -4126,7 +4126,7 @@
         {
             "id": 138,
             "name": "Stamppot",
-            "api_img": "https://www.themealdb.com/images/media/foods/hyarod1565090529.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/hyarod1565090529.jpg",
             "api_id": "52980",
             "ingredients_id": [
                 15,
@@ -4154,7 +4154,7 @@
         {
             "id": 139,
             "name": "Липкий ирисный пудинг",
-            "api_img": "https://www.themealdb.com/images/media/foods/xqqqtu1511637379.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xqqqtu1511637379.jpg",
             "api_id": "52883",
             "ingredients_id": [
                 15,
@@ -4181,7 +4181,7 @@
         {
             "id": 140,
             "name": "Липкий пудинг из ириски Ultimate",
-            "api_img": "https://www.themealdb.com/images/media/foods/xrptpq1483909204.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xrptpq1483909204.jpg",
             "api_id": "52793",
             "ingredients_id": [
                 15,
@@ -4211,7 +4211,7 @@
         {
             "id": 141,
             "name": "Клубничный пирог с ревенем",
-            "api_img": "https://www.themealdb.com/images/media/foods/178z5o1585514569.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/178z5o1585514569.jpg",
             "api_id": "53005",
             "ingredients_id": [
                 15,
@@ -4241,7 +4241,7 @@
         {
             "id": 142,
             "name": "Tarte Tatin",
-            "api_img": "https://www.themealdb.com/images/media/foods/ryspuw1511786688.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ryspuw1511786688.jpg",
             "api_id": "52909",
             "ingredients_id": [
                 15,
@@ -4264,7 +4264,7 @@
         {
             "id": 143,
             "name": "Три сырных суфле",
-            "api_img": "https://www.themealdb.com/images/media/foods/sxwquu1511793428.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/sxwquu1511793428.jpg",
             "api_id": "52912",
             "ingredients_id": [
                 15,
@@ -4297,7 +4297,7 @@
         {
             "id": 144,
             "name": "Веганский шоколадный торт",
-            "api_img": "https://www.themealdb.com/images/media/foods/qxutws1486978099.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qxutws1486978099.jpg",
             "api_id": "52794",
             "ingredients_id": [
                 16,
@@ -4320,7 +4320,7 @@
         {
             "id": 145,
             "name": "Риболлита",
-            "api_img": "https://www.themealdb.com/images/media/foods/xrrwpx1487347049.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg",
             "api_id": "52811",
             "ingredients_id": [
                 17,
@@ -4354,7 +4354,7 @@
         {
             "id": 146,
             "name": "Саммер Пистоу",
-            "api_img": "https://www.themealdb.com/images/media/foods/rqtxvr1511792990.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/rqtxvr1511792990.jpg",
             "api_id": "52911",
             "ingredients_id": [
                 18,
@@ -4384,7 +4384,7 @@
         {
             "id": 147,
             "name": "Яблочные пироги Шинон",
-            "api_img": "https://www.themealdb.com/images/media/foods/qtqwwu1511792650.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qtqwwu1511792650.jpg",
             "api_id": "52910",
             "ингредиенты": [
                 19,
@@ -4407,7 +4407,7 @@
         {
             "id": 148,
             "name": "Баранина Роган Джош",
-            "api_img": "https://www.themealdb.com/images/media/foods/vvstvq1487342592.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
             "api_id": "52808",
             "ingredients_id": [
                 19,
@@ -4440,7 +4440,7 @@
         {
             "id": 149,
             "name": "Рыба Recheado Masala",
-            "api_img": "https://www.themealdb.com/images/media/foods/uwxusv1487344500.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
             "api_id": "52809",
             "ingredients_id": [
                 19,
@@ -4474,7 +4474,7 @@
         {
             "id": 150,
             "name": "Шаурма",
-            "api_img": "https://www.themealdb.com/images/media/foods/kcv6hj1598733479.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg",
             "api_id": "53028",
             "ингредиенты": [
                 19,
@@ -4509,7 +4509,7 @@
         {
             "id": 151,
             "name": "Beef Banh Mi Bowls с Шрирача Майо, Морковью и Маринованным огурец",
-            "api_img": "https://www.themealdb.com/images/media/foods/z0ageb1583189517.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/z0ageb1583189517.jpg",
             "api_id": "52997",
             "ingredients_id": [
                 20,
@@ -4537,7 +4537,7 @@
         {
             "id": 152,
             "name": "Говяжья грудинка Жаркое",
-            "api_img": "https://www.themealdb.com/images/media/foods/ursuup1487348423.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
             "api_id": "52812",
             "ingredients_id": [
                 20,
@@ -4567,7 +4567,7 @@
         {
             "id": 153,
             "name": "Морковный пирог",
-            "api_img": "https://www.themealdb.com/images/media/foods/vrspxv1511722107.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vrspxv1511722107.jpg",
             "api_id": "52897",
             "ingredients_id": [
                 20,
@@ -4599,7 +4599,7 @@
         {
             "id": 154,
             "name": "Корба",
-            "api_img": "https://www.themealdb.com/images/media/foods/58oia61564916529.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
             "api_id": "52977",
             "ingredients_id": [
                 20,
@@ -4632,7 +4632,7 @@
         {
             "id": 155,
             "name": "Солонина с капустой",
-            "api_img": "https://www.themealdb.com/images/media/foods/xb97a81583266727.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xb97a81583266727.jpg",
             "api_id": "52998",
             "ingredients_id": [
                 20,
@@ -4651,7 +4651,7 @@
         {
             "id": 156,
             "name": "Сливочный томатный суп",
-            "api_img": "https://www.themealdb.com/images/media/foods/stpuws1511191310.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg",
             "api_id": "52841",
             "ingredients_id": [
                 20,
@@ -4683,7 +4683,7 @@
         {
             "id": 157,
             "name": "Рыба Эскович",
-            "api_img": "https://www.themealdb.com/images/media/foods/1520084413.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
             "api_id": "52944",
             "ingredients_id": [
                 20,
@@ -4721,7 +4721,7 @@
         {
             "id": 158,
             "name": "Ирландское рагу",
-            "api_img": "https://www.themealdb.com/images/media/foods/sxxpst1468569714.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/sxxpst1468569714.jpg",
             "api_id": "52781",
             "ingredients_id": [
                 20,
@@ -4755,7 +4755,7 @@
         {
             "id": 159,
             "name": "Пирог с бараниной и картофелем",
-            "api_img": "https://www.themealdb.com/images/media/foods/sxrpws1511555907.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/sxrpws1511555907.jpg",
             "api_id": "52877",
             "ingredients_id": [
                 20,
@@ -4785,7 +4785,7 @@
         {
             "id": 160,
             "name": "Ягненок Тажин",
-            "api_img": "https://www.themealdb.com/images/media/foods/yuwtuu1511295751.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
             "api_id": "52843",
             "ingredients_id": [
                 20,
@@ -4823,7 +4823,7 @@
         {
             "id": 161,
             "name": "Лазанья",
-            "api_img": "https://www.themealdb.com/images/media/foods/wtsvxx1511296896.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
             "api_id": "52844",
             "ingredients_id": [
                 20,
@@ -4860,7 +4860,7 @@
         {
             "id": 162,
             "name": "Марокканский морковный суп",
-            "api_img": "https://www.themealdb.com/images/media/foods/jcr46d1614763831.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg",
             "api_id": "53047",
             "ingredients_id": [
                 20,
@@ -4887,7 +4887,7 @@
         {
             "id": 163,
             "name": "РосÃ3Е (Польский куриный суп)",
-            "api_img": "https://www.themealdb.com/images/media/foods/lx1kkj1593349302.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/lx1kkj1593349302.jpg",
             "api_id": "53020",
             "ingredients_id": [
                 20,
@@ -4922,7 +4922,7 @@
         {
             "id": 164,
             "name": "Вегетарианская запеканка",
-            "api_img": "https://www.themealdb.com/images/media/foods/vptwyt1511450962.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vptwyt1511450962.jpg",
             "api_id": "52863",
             "ingredients_id": [
                 20,
@@ -4958,7 +4958,7 @@
         {
             "id": 165,
             "name": "Печенье Кешью Гориба",
-            "api_img": "https://www.themealdb.com/images/media/foods/t3r3ka1560461972.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/t3r3ka1560461972.jpg",
             "api_id": "52976",
             "ingredients_id": [
                 21,
@@ -4979,7 +4979,7 @@
         {
             "id": 166,
             "name": "Баранина Бирьяни",
-            "api_img": "https://www.themealdb.com/images/media/foods/xrttsx1487339558.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
             "api_id": "52805",
             "ingredients_id": [
                 21,
@@ -5018,7 +5018,7 @@
         {
             "id": 167,
             "name": "Помидор ягненка и сладкие специи",
-            "api_img": "https://www.themealdb.com/images/media/foods/qtwtss1468572261.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg",
             "api_id": "52782",
             "ingredients_id": [
                 23,
@@ -5054,7 +5054,7 @@
         {
             "id": 168,
             "name": "Португальские торты с заварным кремом",
-            "api_img": "https://www.themealdb.com/images/media/foods/vmz7gl1614350221.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vmz7gl1614350221.jpg",
             "api_id": "53046",
             "ingredients_id": [
                 23,
@@ -5087,7 +5087,7 @@
         {
             "id": 169,
             "name": "Ригатони с соусом из укропной колбасы",
-            "api_img": "https://www.themealdb.com/images/media/foods/qtqvys1468573168.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg",
             "api_id": "52783",
             "ingredients_id": [
                 23,
@@ -5123,7 +5123,7 @@
         {
             "id": 170,
             "name": "Шакшука",
-            "api_img": "https://www.themealdb.com/images/media/foods/g373701551450225.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
             "api_id": "52963",
             "ingredients_id": [
                 23,
@@ -5152,7 +5152,7 @@
         {
             "id": 171,
             "name": "Каннеллони со шпинатом и рикоттой",
-            "api_img": "https://www.themealdb.com/images/media/foods/wspuvp1511303478.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg",
             "api_id": "52849",
             "ingredients_id": [
                 23,
@@ -5186,7 +5186,7 @@
         {
             "id": 172,
             "name": "Пятнистый Член",
-            "api_img": "https://www.themealdb.com/images/media/foods/xqvyqr1511638875.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xqvyqr1511638875.jpg",
             "api_id": "52886",
             "ingredients_id": [
                 23,
@@ -5215,7 +5215,7 @@
         {
             "id": 173,
             "name": "Тунисский апельсиновый торт",
-            "api_img": "https://www.themealdb.com/images/media/foods/y4jpgq1560459207.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/y4jpgq1560459207.jpg",
             "api_id": "52970",
             "ingredients_id": [
                 23,
@@ -5239,7 +5239,7 @@
         {
             "id": 174,
             "name": "Белый шоколадный крем-брюле",
-            "api_img": "https://www.themealdb.com/images/media/foods/uryqru1511798039.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/uryqru1511798039.jpg",
             "api_id": "52917",
             "ingredients_id": [
                 23,
@@ -5260,7 +5260,7 @@
         {
             "id": 175,
             "name": "Яки Удон",
-            "api_img": "https://www.themealdb.com/images/media/foods/wrustq1511475474.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wrustq1511475474.jpg",
             "api_id": "52871",
             "ingredients_id": [
                 23,
@@ -5291,7 +5291,7 @@
         {
             "id": 176,
             "name": "Аям Перчик",
-            "api_img": "https://www.themealdb.com/images/media/foods/020z181619788503.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg",
             "api_id": "53050",
             "ingredients_id": [
                 24,
@@ -5325,7 +5325,7 @@
         {
             "id": 177,
             "name": "Тамия",
-            "api_img": "https://www.themealdb.com/images/media/foods/n3xxd91598732796.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg",
             "api_id": "53026",
             "ingredients_id": [
                 24,
@@ -5354,7 +5354,7 @@
         {
             "id": 178,
             "name": "Французская Чечевица С Чесноком и тимьяном",
-            "api_img": "https://www.themealdb.com/images/media/foods/vwwspt1487394060.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vwwspt1487394060.jpg",
             "api_id": "52815",
             "ingredients_id": [
                 25,
@@ -5381,7 +5381,7 @@
         {
             "id": 179,
             "name": "Сэндвич Chick-Fil-A",
-            "api_img": "https://www.themealdb.com/images/media/foods/sbx7n71587673021.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
             "api_id": "53016",
             "ingredients_id": [
                 26,
@@ -5415,7 +5415,7 @@
         {
             "id": 180,
             "name": "Говядина Бургиньон",
-            "api_img": "https://www.themealdb.com/images/media/foods/vtqxtu1511784197.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vtqxtu1511784197.jpg",
             "api_id": "52904",
             "ingredients_id": [
                 27,
@@ -5449,7 +5449,7 @@
         {
             "id": 181,
             "name": "Курица Фахита Макароны с сыром",
-            "api_img": "https://www.themealdb.com/images/media/foods/qrqywr1503066605.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg",
             "api_id": "52818",
             "ingredients_id": [
                 29,
@@ -5482,7 +5482,7 @@
         {
             "id": 182,
             "name": "Биг Мак",
-            "api_img": "https://www.themealdb.com/images/media/foods/urzj1d1587670726.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg",
             "api_id": "53013",
             "ingredients_id": [
                 30,
@@ -5518,7 +5518,7 @@
         {
             "id": 183,
             "name": "Путин",
-            "api_img": "https://www.themealdb.com/images/media/foods/uuyrrx1487327597.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
             "api_id": "52804",
             "ingredients_id": [
                 31,
@@ -5537,7 +5537,7 @@
         {
             "id": 184,
             "name": "Баклажаны на плите С Хариссой, Нутом и йогуртом с тмином",
-            "api_img": "https://www.themealdb.com/images/media/foods/yqwtvu1487426027.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/yqwtvu1487426027.jpg",
             "api_id": "52817",
             "ingredients_id": [
                 32,
@@ -5563,7 +5563,7 @@
         {
             "id": 185,
             "name": "Жаба В Норе",
-            "api_img": "https://www.themealdb.com/images/media/foods/ytuvwr1503070420.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ytuvwr1503070420.jpg",
             "api_id": "52822",
             "ingredients_id": [
                 32,
@@ -5589,7 +5589,7 @@
         {
             "id": 186,
             "name": "Куриный кускус",
-            "api_img": "https://www.themealdb.com/images/media/foods/qxytrx1511304021.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
             "api_id": "52850",
             "ingredients_id": [
                 33,
@@ -5619,7 +5619,7 @@
         {
             "id": 187,
             "name": "Курица генерала Цо",
-            "api_img": "https://www.themealdb.com/images/media/foods/1529444113.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
             "api_id": "52951",
             "ingredients_id": [
                 33,
@@ -5656,7 +5656,7 @@
         {
             "id": 188,
             "name": "куриная Энчилада",
-            "api_img": "https://www.themealdb.com/images/media/foods/qtuwxu1468233098.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg",
             "api_id": "52765",
             "ingredients_id": [
                 34,
@@ -5675,7 +5675,7 @@
         {
             "id": 189,
             "name": "Ореховый куриный Карри",
-            "api_img": "https://www.themealdb.com/images/media/foods/yxsurp1511304301.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg",
             "api_id": "52851",
             "ingredients_id": [
                 34,
@@ -5703,7 +5703,7 @@
         {
             "id": 190,
             "name": "Картофельный гратен с курицей",
-            "api_img": "https://www.themealdb.com/images/media/foods/qwrtut1468418027.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg",
             "api_id": "52780",
             "ingredients_id": [
                 34,
@@ -5733,7 +5733,7 @@
         {
             "id": 191,
             "name": "Цыпленок Маренго",
-            "api_img": "https://www.themealdb.com/images/media/foods/qpxvuq1511798906.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg",
             "api_id": "52920",
             "ingredients_id": [
                 35,
@@ -5757,7 +5757,7 @@
         {
             "id": 192,
             "name": "Хрустящие сосиски и зелень",
-            "api_img": "https://www.themealdb.com/images/media/foods/st1ifa1583267248.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/st1ifa1583267248.jpg",
             "api_id": "52999",
             "ingredients_id": [
                 36,
@@ -5785,7 +5785,7 @@
         {
             "id": 193,
             "name": "Яичный суп",
-            "api_img": "https://www.themealdb.com/images/media/foods/1529446137.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1529446137.jpg",
             "api_id": "52955",
             "ingredients_id": [
                 36,
@@ -5813,7 +5813,7 @@
         {
             "id": 194,
             "name": "Фаршированные помидоры ягненка",
-            "api_img": "https://www.themealdb.com/images/media/foods/u55lbp1585564013.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/u55lbp1585564013.jpg",
             "api_id": "53008",
             "ingredients_id": [
                 36,
@@ -5848,7 +5848,7 @@
         {
             "id": 195,
             "name": "Тунисский суп из баранины",
-            "api_img": "https://www.themealdb.com/images/media/foods/t8mn9g1560460231.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/t8mn9g1560460231.jpg",
             "api_id": "52972",
             "ingredients_id": [
                 36,
@@ -5883,7 +5883,7 @@
         {
             "id": 196,
             "name": "Вяленая курица с рисом и горошком",
-            "api_img": "https://www.themealdb.com/images/media/foods/tytyxu1515363282.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/tytyxu1515363282.jpg",
             "api_id": "52937",
             "ingredients_id": [
                 37,
@@ -5920,7 +5920,7 @@
         {
             "id": 197,
             "name": "Цыпленок тандури",
-            "api_img": "https://www.themealdb.com/images/media/foods/qptpvt1487339892.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
             "api_id": "52806",
             "ingredients_id": [
                 37,
@@ -5953,7 +5953,7 @@
         {
             "id": 198,
             "name": "Суп Леблеби",
-            "api_img": "https://www.themealdb.com/images/media/foods/x2fw9e1560460636.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg",
             "api_id": "52973",
             "ingredients_id": [
                 38,
@@ -5983,7 +5983,7 @@
         {
             "id": 199,
             "name": "Чакчука",
-            "api_img": "https://www.themealdb.com/images/media/foods/gpz67p1560458984.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/gpz67p1560458984.jpg",
             "api_id": "52969",
             "ingredients_id": [
                 39,
@@ -6016,7 +6016,7 @@
         {
             "id": 200,
             "name": "Дымящаяся чечевица Чили со сквошем",
-            "api_img": "https://www.themealdb.com/images/media/foods/uwxqwy1483389553.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/uwxqwy1483389553.jpg",
             "api_id": "52784",
             "ingredients_id": [
                 39,
@@ -6058,7 +6058,7 @@
         {
             "id": 201,
             "name": "Mee goreng mamak",
-            "api_img": "https://www.themealdb.com/images/media/foods/xquakq1619787532.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xquakq1619787532.jpg",
             "api_id": "53048",
             "ingredients_id": [
                 40,
@@ -6091,7 +6091,7 @@
         {
             "id": 202,
             "name": "Roti john",
-            "api_img": "https://www.themealdb.com/images/media/foods/hx335q1619789561.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg",
             "api_id": "53052",
             "ingredients_id": [
                 40,
@@ -6118,7 +6118,7 @@
         {
             "id": 203,
             "name": "Гаридес Саганаки",
-            "api_img": "https://www.themealdb.com/images/media/foods/wuvryu1468232995.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
             "api_id": "52764",
             "ингредиенты": [
                 42,
@@ -6146,7 +6146,7 @@
         {
             "id": 204,
             "name": "Гигантес Плаки",
-            "api_img": "https://www.themealdb.com/images/media/foods/b79r6f1585566277.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/b79r6f1585566277.jpg",
             "api_id": "53012",
             "ingredients_id": [
                 43,
@@ -6177,7 +6177,7 @@
         {
             "id": 205,
             "name": "Даль фрай",
-            "api_img": "https://www.themealdb.com/images/media/foods/wuxrtu1483564410.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
             "api_id": "52785",
             "ingredients_id": [
                 44,
@@ -6210,7 +6210,7 @@
         {
             "id": 206,
             "name": "Карри из фасоли",
-            "api_img": "https://www.themealdb.com/images/media/foods/sywrsu1511463066.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
             "api_id": "52868",
             "ingredients_id": [
                 44,
@@ -6242,7 +6242,7 @@
         {
             "id": 207,
             "name": "Острая Аррабиата Пенне",
-            "api_img": "https://www.themealdb.com/images/media/foods/ustsqw1468250014.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
             "api_id": "52771",
             "ingredients_id": [
                 44,
@@ -6266,7 +6266,7 @@
         {
             "id": 208,
             "name": "Вегетарианский чили",
-            "api_img": "https://www.themealdb.com/images/media/foods/wqurxy1511453156.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wqurxy1511453156.jpg",
             "api_id": "52867",
             "ingredients_id": [
                 44,
@@ -6285,7 +6285,7 @@
         {
             "id": 209,
             "name": "Рагу из венецианской утки",
-            "api_img": "https://www.themealdb.com/images/media/foods/qvrwpt1511181864.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg",
             "api_id": "52838",
             "ingredients_id": [
                 44,
@@ -6322,7 +6322,7 @@
         {
             "id": 210,
             "name": "Рождественский пудинг Лепешка",
-            "api_img": "https://www.themealdb.com/images/media/foods/vvusxs1483907034.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vvusxs1483907034.jpg",
             "api_id": "52788",
             "ingredients_id": [
                 45,
@@ -6344,7 +6344,7 @@
         {
             "id": 211,
             "name": "Рождественский пудинг Мелочь",
-            "api_img": "https://www.themealdb.com/images/media/foods/r33cud1576791081.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/r33cud1576791081.jpg",
             "api_id": "52989",
             "ingredients_id": [
                 45,
@@ -6370,7 +6370,7 @@
         {
             "id": 212,
             "name": "Будино ди рикотта",
-            "api_img": "https://www.themealdb.com/images/media/foods/1549542877.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1549542877.jpg",
             "api_id": "52961",
             "ingredients_id": [
                 47,
@@ -6397,7 +6397,7 @@
         {
             "id": 213,
             "name": "Tourtiere",
-            "api_img": "https://www.themealdb.com/images/media/foods/ytpstt1511814614.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ytpstt1511814614.jpg",
             "api_id": "52926",
             "ingredients_id": [
                 47,
@@ -6430,7 +6430,7 @@
         {
             "id": 214,
             "name": "Монреальское копченое мясо",
-            "api_img": "https://www.themealdb.com/images/media/foods/uttupv1511815050.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/uttupv1511815050.jpg",
             "api_id": "52927",
             "ingredients_id": [
                 49,
@@ -6460,7 +6460,7 @@
         {
             "id": 215,
             "name": "Шоколадно-малиновые пирожные",
-            "api_img": "https://www.themealdb.com/images/media/foods/yypvst1511386427.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg",
             "api_id": "52860",
             "ingredients_id": [
                 51,
@@ -6487,7 +6487,7 @@
         {
             "id": 216,
             "name": "Лакса королевская лапша с креветками",
-            "api_img": "https://www.themealdb.com/images/media/foods/rvypwy1503069308.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg",
             "api_id": "52821",
             "ingredients_id": [
                 52,
@@ -6518,7 +6518,7 @@
         {
             "id": 217,
             "name": "Наси лемак",
-            "api_img": "https://www.themealdb.com/images/media/foods/wai9bw1619788844.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wai9bw1619788844.jpg",
             "api_id": "53051",
             "ingredients_id": [
                 52,
@@ -6556,7 +6556,7 @@
         {
             "id": 218,
             "name": "Сери мука куих",
-            "api_img": "https://www.themealdb.com/images/media/foods/6ut2og1619790195.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/6ut2og1619790195.jpg",
             "api_id": "53054",
             "ingredients_id": [
                 52,
@@ -6581,7 +6581,7 @@
         {
             "id": 219,
             "name": "Горячая шоколадная помадка",
-            "api_img": "https://www.themealdb.com/images/media/foods/xrysxr1483568462.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xrysxr1483568462.jpg",
             "api_id": "52787",
             "ingredients_id": [
                 54,
@@ -6601,7 +6601,7 @@
         {
             "id": 220,
             "name": "Кеджери",
-            "api_img": "https://www.themealdb.com/images/media/foods/utxqpt1511639216.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg",
             "api_id": "52887",
             "ingredients_id": [
                 55,
@@ -6631,7 +6631,7 @@
         {
             "id": 221,
             "name": "Котлеты из ягненка Цацики",
-            "api_img": "https://www.themealdb.com/images/media/foods/k420tj1585565244.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg",
             "api_id": "53010",
             "ingredients_id": [
                 55,
@@ -6664,7 +6664,7 @@
         {
             "id": 222,
             "name": "Матар Панир",
-            "api_img": "https://www.themealdb.com/images/media/foods/xxpqsy1511452222.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
             "api_id": "52865",
             "ingredients_id": [
                 55,
@@ -6694,7 +6694,7 @@
         {
             "id": 223,
             "name": "Шотландский пирог McSinghs",
-            "api_img": "https://www.themealdb.com/images/media/foods/vssrtx1511557680.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vssrtx1511557680.jpg",
             "api_id": "52880",
             "ingredients_id": [
                 55,
@@ -6729,7 +6729,7 @@
         {
             "id": 224,
             "name": "португальски тушеная рыба (Кальдейрада-де-Пейше)",
-            "api_img": "https://www.themealdb.com/images/media/foods/do7zps1614349775.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/do7zps1614349775.jpg",
             "api_id": "53045",
             "ingredients_id": [
                 55,
@@ -6767,7 +6767,7 @@
         {
             "id": 225,
             "name": "Веганская лазанья",
-            "api_img": "https://www.themealdb.com/images/media/foods/rvxxuy1468312893.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
             "api_id": "52775",
             "ingredients_id": [
                 55,
@@ -6800,7 +6800,7 @@
         {
             "id": 226,
             "name": "Байнган Бхарта",
-            "api_img": "https://www.themealdb.com/images/media/foods/urtpqw1487341253.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
             "api_id": "52807",
             "ingredients_id": [
                 56,
@@ -6825,7 +6825,7 @@
         {
             "id": 227,
             "name": "Мбузи Чома (Жареная коза)",
-            "api_img": "https://www.themealdb.com/images/media/foods/cuio7s1555492979.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/cuio7s1555492979.jpg",
             "api_id": "52968",
             "ingredients_id": [
                 56,
@@ -6849,7 +6849,7 @@
         {
             "id": 228,
             "name": "Удовольствие от креветок",
-            "api_img": "https://www.themealdb.com/images/media/foods/1529445434.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1529445434.jpg",
             "api_id": "52953",
             "ingredients_id": [
                 59,
@@ -6888,7 +6888,7 @@
         {
             "id": 229,
             "name": "Капсалон",
-            "api_img": "https://www.themealdb.com/images/media/foods/sxysrt1468240488.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/sxysrt1468240488.jpg",
             "api_id": "52769",
             "ingredients_id": [
                 62,
@@ -6915,7 +6915,7 @@
         {
             "id": 230,
             "name": "Бриксы из тунца и яиц",
-            "api_img": "https://www.themealdb.com/images/media/foods/2dsltq1560461468.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg",
             "api_id": "52975",
             "ingredients_id": [
                 62,
@@ -6947,7 +6947,7 @@
         {
             "id": 231,
             "name": "Фул Медамес",
-            "api_img": "https://www.themealdb.com/images/media/foods/lvn2d51598732465.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/lvn2d51598732465.jpg",
             "api_id": "53025",
             "ingredients_id": [
                 63,
@@ -6971,7 +6971,7 @@
         {
             "id": 232,
             "name": "Соленая рыба и Аки",
-            "api_img": "https://www.themealdb.com/images/media/foods/vytypy1511883765.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vytypy1511883765.jpg",
             "api_id": "52936",
             "ingredients_id": [
                 65,
@@ -7006,7 +7006,7 @@
         {
             "id": 233,
             "name": "Бараньи и лимонные Сувлаки",
-            "api_img": "https://www.themealdb.com/images/media/foods/rjhf741585564676.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg",
             "api_id": "53009",
             "ingredients_id": [
                 68,
@@ -7031,7 +7031,7 @@
         {
             "id": 234,
             "name": "Eton Mess",
-            "api_img": "https://www.themealdb.com/images/media/foods/uuxwvq1483907861.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/uuxwvq1483907861.jpg",
             "api_id": "52791",
             "ingredients_id": [
                 70,
@@ -7051,7 +7051,7 @@
         {
             "id": 235,
             "name": "Рыбный пирог",
-            "api_img": "https://www.themealdb.com/images/media/foods/ysxwuq1487323065.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
             "api_id": "52802",
             "ingredients_id": [
                 70,
@@ -7088,7 +7088,7 @@
         {
             "id": 236,
             "name": "Спагетти Болоньезе",
-            "api_img": "https://www.themealdb.com/images/media/foods/sutysw1468247559.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg",
             "api_id": "52770",
             "ingredients_id": [
                 71,
@@ -7121,7 +7121,7 @@
         {
             "id": 237,
             "name": "Тушеная рыба с Руилем",
-            "api_img": "https://www.themealdb.com/images/media/foods/vptqpw1511798500.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
             "api_id": "52918",
             "ingredients_id": [
                 72,
@@ -7160,7 +7160,7 @@
         {
             "id": 238,
             "name": "Говядина Веллингтон",
-            "api_img": "https://www.themealdb.com/images/media/foods/vvpprx1487325699.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
             "api_id": "52803",
             "ingredients_id": [
                 75,
@@ -7186,7 +7186,7 @@
         {
             "id": 239,
             "name": "Пирог с говяжьим фаршем",
-            "api_img": "https://www.themealdb.com/images/media/foods/xwutvy1511555540.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/xwutvy1511555540.jpg",
             "api_id": "52876",
             "ingredients_id": [
                 75,
@@ -7215,7 +7215,7 @@
         {
             "id": 240,
             "name": "Спагетти алла Карбонара",
-            "api_img": "https://www.themealdb.com/images/media/foods/llcbn01574260722.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
             "api_id": "52982",
             "ingredients_id": [
                 75,
@@ -7235,7 +7235,7 @@
         {
             "id": 241,
             "name": "Апам балик",
-            "api_img": "https://www.themealdb.com/images/media/foods/adxcbq1619787919.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg",
             "api_id": "53049",
             "ingredients_id": [
                 76,
@@ -7259,7 +7259,7 @@
         {
             "id": 242,
             "name": "Банановые блины",
-            "api_img": "https://www.themealdb.com/images/media/foods/sywswr1511383814.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
             "api_id": "52855",
             "ingredients_id": [
                 76,
@@ -7282,7 +7282,7 @@
         {
             "id": 243,
             "name": "Самодельный мандази",
-            "api_img": "https://www.themealdb.com/images/media/foods/thazgm1555350962.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/thazgm1555350962.jpg",
             "api_id": "52967",
             "ingredients_id": [
                 76,
@@ -7301,7 +7301,7 @@
         {
             "id": 244,
             "name": "Кафтеджи",
-            "api_img": "https://www.themealdb.com/images/media/foods/1bsv1q1560459826.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg",
             "api_id": "52971",
             "ingredients_id": [
                 76,
@@ -7329,7 +7329,7 @@
         {
             "id": 245,
             "name": "Пончик Krispy Kreme",
-            "api_img": "https://www.themealdb.com/images/media/foods/4i5cnx1587672171.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/4i5cnx1587672171.jpg",
             "api_id": "53015",
             "ingredients_id": [
                 76,
@@ -7358,7 +7358,7 @@
         {
             "id": 246,
             "name": "Блины",
-            "api_img": "https://www.themealdb.com/images/media/foods/rwuyqx1511383174.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
             "api_id": "52854",
             "ingredients_id": [
                 76,
@@ -7382,7 +7382,7 @@
         {
             "id": 247,
             "name": "Провансальский омлет",
-            "api_img": "https://www.themealdb.com/images/media/foods/qwtrtp1511799242.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qwtrtp1511799242.jpg",
             "api_id": "52921",
             "ingredients_id": [
                 76,
@@ -7416,7 +7416,7 @@
         {
             "id": 248,
             "name": "Тунец Нисуаз",
-            "api_img": "https://www.themealdb.com/images/media/foods/yypwwq1511304979.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg",
             "api_id": "52852",
             "ingredients_id": [
                 76,
@@ -7443,7 +7443,7 @@
         {
             "id": 249,
             "name": "Тушеное мясо с фасолью и колбасой",
-            "api_img": "https://www.themealdb.com/images/media/foods/vxuyrx1511302687.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg",
             "api_id": "52848",
             "ingredients_id": [
                 78,
@@ -7464,7 +7464,7 @@
         {
             "id": 250,
             "name": "Средиземноморский салат из пасты",
-            "api_img": "https://www.themealdb.com/images/media/foods/wvqpwt1468339226.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
             "api_id": "52777",
             "ingredients_id": [
                 79,
@@ -7490,7 +7490,7 @@
         {
             "id": 251,
             "name": "Пряный Североафриканский картофельный салат",
-            "api_img": "https://www.themealdb.com/images/media/foods/urtwux1486983078.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg",
             "api_id": "52797",
             "ingredients_id": [
                 80,
@@ -7521,7 +7521,7 @@
         {
             "id": 252,
             "name": "Feteer Meshaltet",
-            "api_img": "https://www.themealdb.com/images/media/foods/9f4z6v1598734293.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/9f4z6v1598734293.jpg",
             "api_id": "53030",
             "ingredients_id": [
                 82,
@@ -7540,7 +7540,7 @@
         {
             "id": 253,
             "name": "Выпечка для завтрака с фруктами и сливочным сыром",
-            "api_img": "https://www.themealdb.com/images/media/foods/1543774956.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1543774956.jpg",
             "api_id": "52957",
             "ingredients_id": [
                 82,
@@ -7566,7 +7566,7 @@
         {
             "id": 254,
             "name": "Тимбитс",
-            "api_img": "https://www.themealdb.com/images/media/foods/txsupu1511815755.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/txsupu1511815755.jpg",
             "api_id": "52929",
             "ingredients_id": [
                 82,
@@ -7590,7 +7590,7 @@
         {
             "id": 255,
             "name": "Бычий хвост с широкими бобами",
-            "api_img": "https://www.themealdb.com/images/media/foods/1520083578.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1520083578.jpg",
             "api_id": "52943",
             "ingredients_id": [
                 87,
@@ -7622,7 +7622,7 @@
         {
             "id": 256,
             "name": "Ямайский стиль Каллалу",
-            "api_img": "https://www.themealdb.com/images/media/foods/ussyxw1515364536.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ussyxw1515364536.jpg",
             "api_id": "52939",
             "ingredients_id": [
                 90,
@@ -7652,7 +7652,7 @@
         {
             "id": 257,
             "name": "Куриный Карааге",
-            "api_img": "https://www.themealdb.com/images/media/foods/tyywsw1505930373.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg",
             "api_id": "52831",
             "ingredients_id": [
                 90,
@@ -7679,7 +7679,7 @@
         {
             "id": 258,
             "name": "Конфи из утки",
-            "api_img": "https://www.themealdb.com/images/media/foods/wvpvsu1511786158.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wvpvsu1511786158.jpg",
             "api_id": "52907",
             "ingredients_id": [
                 90,
@@ -7701,7 +7701,7 @@
         {
             "id": 259,
             "name": "Жареные португальские сардины",
-            "api_img": "https://www.themealdb.com/images/media/foods/lpd4wy1614347943.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/lpd4wy1614347943.jpg",
             "api_id": "53041",
             "ingredients_id": [
                 90,
@@ -7727,7 +7727,7 @@
         {
             "id": 260,
             "name": "Pilchard puttanesca",
-            "api_img": "https://www.themealdb.com/images/media/foods/vvtvtr1511180578.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
             "api_id": "52837",
             "ingredients_id": [
                 90,
@@ -7756,7 +7756,7 @@
         {
             "id": 261,
             "name": "Португальский прего с зеленым пири-пири",
-            "api_img": "https://www.themealdb.com/images/media/foods/ewcikl1614348364.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/ewcikl1614348364.jpg",
             "api_id": "53042",
             "ingredients_id": [
                 90,
@@ -7785,7 +7785,7 @@
         {
             "id": 262,
             "name": "Фидеу из морепродуктов",
-            "api_img": "https://www.themealdb.com/images/media/foods/wqqvyq1511179730.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wqqvyq1511179730.jpg",
             "api_id": "52836",
             "ingredients_id": [
                 90,
@@ -7820,7 +7820,7 @@
         {
             "id": 263,
             "name": "Лингвини из кабачков",
-            "api_img": "https://www.themealdb.com/images/media/foods/wxswxy1511452625.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg",
             "api_id": "52866",
             "ingredients_id": [
                 90,
@@ -7840,7 +7840,7 @@
         {
             "id": 264,
             "name": "Тахини чечевица",
-            "api_img": "https://www.themealdb.com/images/media/foods/vpxyqt1511464175.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vpxyqt1511464175.jpg",
             "api_id": "52869",
             "ingredients_id": [
                 90,
@@ -7869,7 +7869,7 @@
         {
             "id": 265,
             "name": "Завтрак Картофель",
-            "api_img": "https://www.themealdb.com/images/media/foods/1550441882.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1550441882.jpg",
             "api_id": "52965",
             "ingredients_id": [
                 91,
@@ -7897,7 +7897,7 @@
         {
             "id": 266,
             "name": "Рататуй",
-            "api_img": "https://www.themealdb.com/images/media/foods/wrpwuu1511786491.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/wrpwuu1511786491.jpg",
             "api_id": "52908",
             "ingredients_id": [
                 91,
@@ -7925,7 +7925,7 @@
         {
             "id": 267,
             "name": "Булангар картофель",
-            "api_img": "https://www.themealdb.com/images/media/foods/qywups1511796761.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/qywups1511796761.jpg",
             "api_id": "52914",
             "ingredients_id": [
                 141,
@@ -7947,7 +7947,7 @@
         {
             "id": 268,
             "name": "Ма По Тофу",
-            "api_img": "https://www.themealdb.com/images/media/foods/1525874812.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
             "api_id": "52947",
             "ingredients_id": [
                 141,
@@ -7980,7 +7980,7 @@
         {
             "id": 269,
             "name": "Пицца Экспресс Маргарита",
-            "api_img": "https://www.themealdb.com/images/media/foods/x0lk931587671540.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
             "api_id": "53014",
             "ingredients_id": [
                 141,
@@ -8008,7 +8008,7 @@
         {
             "id": 270,
             "name": "След в Олей (Польская сельдь)",
-            "api_img": "https://www.themealdb.com/images/media/foods/7ttta31593350374.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/7ttta31593350374.jpg",
             "api_id": "53023",
             "ingredients_id": [
                 141,
@@ -8031,7 +8031,7 @@
         {
             "id": 271,
             "name": "Жареная паэлья из укропа и баклажанов",
-            "api_img": "https://www.themealdb.com/images/media/foods/1520081754.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1520081754.jpg",
             "api_id": "52942",
             "ingredients_id": [
                 147,
@@ -8066,7 +8066,7 @@
         {
             "id": 272,
             "name": "Фаджи Рокки Роуд",
-            "api_img": "https://www.themealdb.com/images/media/foods/vtxyxv1483567157.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/vtxyxv1483567157.jpg",
             "api_id": "52786",
             "ingredients_id": [
                 152
@@ -8084,7 +8084,7 @@
         {
             "id": 273,
             "name": "Японский рис гохан",
-            "api_img": "https://www.themealdb.com/images/media/foods/kw92t41604181871.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/kw92t41604181871.jpg",
             "api_id": "53033",
             "ingredients_id": [
                 193,
@@ -8103,7 +8103,7 @@
         {
             "id": 274,
             "name": "Печенье с арахисовым маслом",
-            "api_img": "https://www.themealdb.com/images/media/foods/1544384070.jpg",
+            "api_img": "https://www.themealdb.com/images/media/meals/1544384070.jpg",
             "api_id": "52958",
             "ingredients_id": [
                 314
