@@ -25,5 +25,5 @@ Route::post('/ingredients', [IngredientController::class, 'store']);
 
 Route::get('/meals', [MealController::class, 'index']);
 Route::get('/meals/{id}', [MealController::class, 'show']);
-Route::get('/meal', [MealController::class, 'random']);
+Route::get('/meal/random', [MealController::class, 'getRandom']);
 Route::post('/meals', [MealController::class, 'store']);

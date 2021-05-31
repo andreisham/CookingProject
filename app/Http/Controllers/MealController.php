@@ -41,20 +41,17 @@ class MealController extends Controller
      */
     public function index(Request $request)
     {
-        $validator = Validator::make($request->only('ingredient'), [
-            'ingredient' => 'nullable|int|exists:App\Models\Ingredient,id'
-        ]);
+        $ingredients = $request->input('ingredient');
 
-        if ($validator->fails()) {
-            return response(['errors' => $validator->errors()->all()], 422);
+        if (!empty($ingredients)) {
+            return response($this->mealsRepository->getByIngredients($ingredients));
         }
+        return response($this->mealsRepository->getAll());
+    }
 
-        $ingredientId = $request->input('ingredient');
-
-        if (!$ingredientId) {
-            return response($this->mealsRepository->getAll());
-        }
-        return response($this->mealsRepository->getByIngredientId($ingredientId));
+    public function getRandom()
+    {
+        return response($this->mealsRepository->getRandom());
     }
 
     /**
@@ -156,11 +153,6 @@ class MealController extends Controller
         $meal = Meal::find($id)->first();
 
         return response($meal, 200);
-    }
-
-    public function random()
-    {
-        return response($this->mealsRepository->getRandom());
     }
 
     /**
