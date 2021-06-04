@@ -29,6 +29,33 @@ class MealsRepository implements MealsRepositoryInterface
         return $meals->toArray();
     }
 
+    public function getByIngredients(array $idxs): array
+    {
+//        select m.* from meals m
+//            join
+//            (select mi.meal_id
+//            from meals_ingredients mi
+//            where mi.ingredient_id in (1, 131)
+//            GROUP BY mi.meal_id
+//            HAVING COUNT(mi.ingredient_id) = 2) tbl on tbl.meal_id = m.id;
+
+        $mealsIdxs = DB::table('meals_ingredients')
+            ->select(
+                'meal_id',
+                DB::raw('count(ingredient_id) as cnt')
+            )
+            ->whereIn('ingredient_id', $idxs)
+            ->groupBy('meal_id')
+            ->having('cnt', '=', count($idxs));
+
+        $meals = DB::table('meals as m')
+            ->joinSub($mealsIdxs, 'mi', function ($join) {
+                $join->on('m.id', '=', 'mi.meal_id');
+            })->get();
+
+        return $meals->toArray();
+    }
+
     public function getRandom(): array
     {
         $mealsIds = Meal::select('id')
