@@ -14,7 +14,7 @@ class MealsRepository implements MealsRepositoryInterface
 
     public function getByIngredientId(int $id): array
     {
-        $meals = DB::table('meals_ingredients as mi')
+        $meals = DB::table('ingredient_meal as im')
             ->select(
                 'm.id as id',
                 'm.name as name',
@@ -33,13 +33,13 @@ class MealsRepository implements MealsRepositoryInterface
     {
 //        select m.* from meals m
 //            join
-//            (select mi.meal_id
-//            from meals_ingredients mi
-//            where mi.ingredient_id in (1, 131)
-//            GROUP BY mi.meal_id
-//            HAVING COUNT(mi.ingredient_id) = 2) tbl on tbl.meal_id = m.id;
+//            (select im.meal_id
+//            from ingredient_meal im
+//            where im.ingredient_id in (1, 131)
+//            GROUP BY im.meal_id
+//            HAVING COUNT(im.ingredient_id) = 2) tbl on tbl.meal_id = m.id;
 
-        $mealsIdxs = DB::table('meals_ingredients')
+        $mealsIdxs = DB::table('ingredient_meal')
             ->select(
                 'meal_id',
                 DB::raw('count(ingredient_id) as cnt')
@@ -49,8 +49,8 @@ class MealsRepository implements MealsRepositoryInterface
             ->having('cnt', '=', count($idxs));
 
         $meals = DB::table('meals as m')
-            ->joinSub($mealsIdxs, 'mi', function ($join) {
-                $join->on('m.id', '=', 'mi.meal_id');
+            ->joinSub($mealsIdxs, 'im', function ($join) {
+                $join->on('m.id', '=', 'im.meal_id');
             })->get();
 
         return $meals->toArray();
