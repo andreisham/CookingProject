@@ -23,8 +23,8 @@ class MealsRepository implements MealsRepositoryInterface
                 'm.api_img',
                 'm.youtube'
             )
-            ->join('meals as m', 'm.id', '=', 'mi.meal_id')
-            ->where('mi.ingredient_id', '=', $id)
+            ->join('meals as m', 'm.id', '=', 'im.meal_id')
+            ->where('im.ingredient_id', '=', $id)
             ->get();
         return $meals->toArray();
     }
