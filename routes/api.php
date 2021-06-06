@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\FavoritesController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use \App\Http\Controllers\IngredientController;
@@ -27,3 +28,7 @@ Route::get('/meals', [MealController::class, 'index']);
 Route::get('/meals/{id}', [MealController::class, 'show']);
 Route::get('/meal/random', [MealController::class, 'getRandom']);
 Route::post('/meals', [MealController::class, 'store']);
+
+Route::get('/favorites', [FavoritesController::class, 'get']);
+Route::post('/favorites/meals/{id}', [FavoritesController::class, 'add']);
+Route::delete('/favorites/meals/{id}', [FavoritesController::class, 'delete']);

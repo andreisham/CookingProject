@@ -17,4 +17,11 @@ class DeleteFavoriteRequest extends FormRequest
             'meal_id' => 'required|integer|exists:favorites,meal_id',
         ];
     }
+
+    public function all($keys = null)
+    {
+        $data = parent::all();
+        $data['meal_id'] = $this->route('id');
+        return $data;
+    }
 }
