@@ -9,7 +9,7 @@ class FavoritesRepository implements FavoritesRepositoryInterface
     public function getByUserId(int $userId): array
     {
         $favorites = DB::table('favorites as f')
-            ->select('m.id', 'm.name')
+            ->select('m.id', 'm.name', 'm.api_img')
             ->join('meals as m', 'f.meal_id', '=', 'm.id')
             ->join('users as u','f.user_id', '=', 'u.id')
             ->where('u.id', '=', $userId)->get();
