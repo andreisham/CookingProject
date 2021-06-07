@@ -12,6 +12,11 @@ class MealsRepository implements MealsRepositoryInterface
         return Meal::get()->toArray();
     }
 
+    public function getById(int $mealId): array
+    {
+        return Meal::find($mealId)->toArray();
+    }
+
     public function getByIngredientId(int $id): array
     {
         $meals = DB::table('ingredient_meal as im')

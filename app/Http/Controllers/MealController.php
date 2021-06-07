@@ -2,11 +2,10 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Ingredient;
+use App\Http\Requests\Meals\GetMealByIdRequest;
 use App\Models\Meal;
 use App\Repositories\MealsRepository\MealsRepositoryInterface;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Validator;
 
 class MealController extends Controller
 {
@@ -88,10 +87,11 @@ class MealController extends Controller
      *       ),
      *     )
      */
-    public function show($id)
+    public function show(GetMealByIdRequest $request)
     {
-        $meal = Meal::find((int)$id)->first();
-        return response($meal);
+        $mealId = $request->all()['meal_id'];
+        $meal = $this->mealsRepository->getById($mealId);
+        return response()->json($meal);
     }
 
     /**
