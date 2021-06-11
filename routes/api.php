@@ -5,6 +5,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use \App\Http\Controllers\IngredientController;
 use \App\Http\Controllers\MealController;
+use \App\Http\Controllers\UserController;
 
 /*
 |--------------------------------------------------------------------------
@@ -32,3 +33,7 @@ Route::post('/meals', [MealController::class, 'store']);
 Route::get('/favorites', [FavoritesController::class, 'get']);
 Route::post('/favorites/meals/{id}', [FavoritesController::class, 'add']);
 Route::delete('/favorites/meals/{id}', [FavoritesController::class, 'delete']);
+
+Route::get('/authorized', [UserController::class, 'getAuthorizedUser']);
+Route::post('/login', [UserController::class, 'login']);
+Route::post('/register', [UserController::class, 'register']);
