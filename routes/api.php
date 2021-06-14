@@ -26,7 +26,8 @@ Route::get('/ingredients', [IngredientController::class, 'index']);
 Route::post('/ingredients', [IngredientController::class, 'store']);
 
 Route::get('/meals', [MealController::class, 'index']);
-Route::get('/meals/{id}', [MealController::class, 'show']);
+Route::get('/meals/{id}', [MealController::class, 'show'])->where('id', '[0-9]+');
+Route::get('/meals/count', [MealController::class, 'count']);
 Route::get('/meal/random', [MealController::class, 'getRandom']);
 Route::post('/meals', [MealController::class, 'store']);
 

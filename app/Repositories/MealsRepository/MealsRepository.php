@@ -46,6 +46,11 @@ class MealsRepository implements MealsRepositoryInterface
         return $query->get()->toArray();
     }
 
+    public function getCountByIngredients(array $idxs): int
+    {
+        return count($this->getByIngredients($idxs));
+    }
+
     public function getRandom(): array
     {
         $mealsIds = Meal::select('id')

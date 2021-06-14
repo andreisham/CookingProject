@@ -47,6 +47,13 @@ class MealController extends Controller
         return response($this->mealsRepository->getAll());
     }
 
+    public function count(Request $request)
+    {
+        $ingredients = $request->input('ingredients');
+        $count = $this->mealsRepository->getCountByIngredients($ingredients);
+        return response()->json(['count' => $count]);
+    }
+
     public function getRandom()
     {
         return response($this->mealsRepository->getRandom());
