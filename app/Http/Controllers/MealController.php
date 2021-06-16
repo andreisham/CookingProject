@@ -47,6 +47,12 @@ class MealController extends Controller
         return response($this->mealsRepository->getAll());
     }
 
+    public function list()
+    {
+        $meals = $this->mealsRepository->getList();
+        return response()->json($meals);
+    }
+
     public function count(Request $request)
     {
         $ingredients = $request->input('ingredients');
