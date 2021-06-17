@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\FavoritesController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use \App\Http\Controllers\IngredientController;
@@ -25,9 +26,16 @@ Route::get('/ingredients', [IngredientController::class, 'index']);
 Route::post('/ingredients', [IngredientController::class, 'store']);
 
 Route::get('/meals', [MealController::class, 'index']);
-Route::get('/meals/{id}', [MealController::class, 'show']);
+Route::get('/meals/{id}', [MealController::class, 'show'])->where('id', '[0-9]+');
+Route::get('/meals/list', [MealController::class, 'list']);
+Route::get('/meals/count', [MealController::class, 'count']);
 Route::get('/meal/random', [MealController::class, 'getRandom']);
 Route::post('/meals', [MealController::class, 'store']);
+
+Route::get('/favorites', [FavoritesController::class, 'get']);
+Route::post('/favorites/meals/{id}', [FavoritesController::class, 'add']);
+Route::delete('/favorites/meals/{id}', [FavoritesController::class, 'delete']);
+
 Route::get('/authorized', [UserController::class, 'getAuthorizedUser']);
 Route::post('/login', [UserController::class, 'login']);
 Route::post('/register', [UserController::class, 'register']);
