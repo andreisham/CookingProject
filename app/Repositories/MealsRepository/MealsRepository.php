@@ -43,13 +43,17 @@ class MealsRepository implements MealsRepositoryInterface
 
     public function getByIngredients(array $idxs): array
     {
-        $query = DB::table('meals as m');
+        $query = DB::table('ingredient_meal as im')
+            ->select('im.meal_id')
+            ->distinct();
+
         foreach ($idxs as $k => $id) {
             $query = $query->join("ingredient_meal as im$k", function ($join) use ($k, $id) {
-                $join->on("im$k.meal_id", '=', 'm.id')
+                $join->on("im$k.meal_id", '=', 'im.meal_id')
                     ->where("im$k.ingredient_id", '=', $id);
             });
         }
+
         return $query->get()->toArray();
     }
 
